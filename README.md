@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm VoidX3D</h1>
-<h3 align="center">Frontend & Backend Developer | AI Enthusiast | Anime Lover | Tech Explorer</h3>
+<h3 align="center">AI Backend Developer | Full-Stack Enthusiast | Anime Lover | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=voidx3d&label=Profile%20views&color=ffffff&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 🌐 About Me
+- 🏠 Based in **Pokhara, Nepal**  
+- 🎓 Studying at **Motherland Secondary School, Class 9D**  
+- 💻 Building **web & desktop apps**, focus on **AI backend & anime tools**  
+- 🎮 Passionate about **anime, coding, and game dev**  
+- 🚀 Always learning **Next.js, React Native, Flutter, Python, and AI tools**  
 
 ---
 
@@ -26,8 +35,8 @@
 ---
 
 ## 🚀 Projects & Live Apps
-| Project | Description | Link |
-|---------|-------------|------|
+| Project | Description | Live / Repo |
+|---------|-------------|-------------|
 | 🌟 **Portfolio Sincere** | Personal portfolio website (Next.js) | [Live](https://portfolio-sincere.vercel.app/) |
 | 💻 **Ubuntu Sincere** | Web-based Ubuntu-like OS interface | [Live](https://ubuntu-sincere.vercel.app/) |
 | 🎮 **Exhibition Quiz Game** | Interactive quiz game (Python & JS) | [GitHub](https://github.com/VoidX3D/exhibition-quiz-prototype) |
@@ -36,44 +45,43 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
 <p align="center">
-  <!-- Rows of tools and languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
+  <b>Python</b> <br>
+  <img src="https://img.shields.io/badge/Python-90%25-brightgreen" alt="Python"/>
+  <b>JavaScript</b> <br>
+  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow" alt="JS"/>
+  <b>React & Next.js</b> <br>
+  <img src="https://img.shields.io/badge/React-80%25-blue" alt="React"/>
+  <b>Flutter</b> <br>
+  <img src="https://img.shields.io/badge/Flutter-75%25-blueviolet" alt="Flutter"/>
+  <b>Node.js</b> <br>
+  <img src="https://img.shields.io/badge/Node.js-70%25-green" alt="Node"/>
+  <b>Vue.js</b> <br>
+  <img src="https://img.shields.io/badge/Vue.js-65%25-brightgreen" alt="Vue"/>
+  <b>C++ & C#</b> <br>
+  <img src="https://img.shields.io/badge/C++-60%25-blue" alt="C++"/>
+  <img src="https://img.shields.io/badge/C#-60%25-blue" alt="C#"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidx3d&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voidx3d&show_icons=true&count_private=true&theme=dark&hide_title=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidx3d&layout=compact&theme=dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidx3d&theme=dark" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidx3d&theme=react-dark&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-views.vercel.app/views/?username=voidx3d&count_private=true&theme=dark" alt="Views Count"/>
+  <img src="https://github-readme-profile-views.vercel.app/api?username=voidx3d&theme=dark" alt="Profile Visitors"/>
+</p>
+
+---
+
+## 🌍 Visitor Map
+<p align="center">
+  <img src="https://github.com/VoidX3D/VoidX3D/blob/main/visitor-map.svg" alt="Visitor Map" />
 </p>
 
 ---
@@ -83,4 +91,16 @@
   <a href="https://www.buymeacoffee.com/prestonpla"> 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
   </a>
+</p>
+
+---
+
+## 🏅 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Languages-Python%2C%20JS-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Top%20Repo-AniPaca-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contribution%20Level-High-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/FrontEnd-React%20%26%20Next.js-blueviolet?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Python%2C%20Node.js-brightgreen?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20Backend-Active-red?style=for-the-badge&logo=openai" />
 </p>
