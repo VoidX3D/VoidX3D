@@ -87,6 +87,32 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=hianime-api&theme=dark" alt="HiAnime API" />
   </a>
 </p>
+<p align="center">
+  <a href="https://portfolio-sincere.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio" />
+  </a>
+  <a href="https://ubuntu-sincere.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Ubuntu-Sincere&theme=dark" alt="Ubuntu" />
+  </a>
+  <a href="https://github.com/VoidX3D/exhibition-quiz-prototype" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=exhibition-quiz-prototype&theme=dark" alt="Quiz" />
+  </a>
+  <a href="https://github.com/VoidX3D/anipaca" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anipaca&theme=dark" alt="AniPaca" />
+  </a>
+  <a href="https://github.com/VoidX3D/AniWave" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniWave&theme=dark" alt="AniWave" />
+  </a>
+  <a href="https://github.com/VoidX3D/kitsune" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kitsune&theme=dark" alt="Kitsune" />
+  </a>
+  <a href="https://github.com/VoidX3D/AniList" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniList&theme=dark" alt="AniList" />
+  </a>
+  <a href="https://github.com/VoidX3D/hianime-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=hianime-api&theme=dark" alt="HiAnime API" />
+  </a>
+</p>
 
 
 ---
