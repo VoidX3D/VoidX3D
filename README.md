@@ -61,7 +61,7 @@
 ---
 
 ### 🏆 My Deployed Projects
-<p align="left">
+<p align="center">
   <a href="https://github.com/VoidX3D/Portfolio" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio" />
   </a>
