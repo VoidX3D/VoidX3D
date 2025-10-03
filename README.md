@@ -132,8 +132,8 @@
   <a href="https://github.com/VoidX3D/aniwatch-api" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=aniwatch-api&theme=dark" alt="aniwatch-api" />
   </a>
-  <a href="https://github.com/VoidX3D/anipaca" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anipaca&theme=dark" alt="anipaca" />
+ <a href="https://github.com/VoidX3D/kahootClone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahootClone&theme=dark" alt="kahootClone" />
   </a>
 </p>
 
@@ -174,13 +174,6 @@
   </a>
   <a href="https://github.com/VoidX3D/kahoot-clone-nodejs" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahoot-clone-nodejs&theme=dark" alt="kahoot-clone-nodejs" />
-  </a>
-</p>
-
-<!-- Row 25 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/kahootClone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahootClone&theme=dark" alt="kahootClone" />
   </a>
 </p>
 
