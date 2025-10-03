@@ -83,6 +83,9 @@
   <a href="https://github.com/VoidX3D/AniList" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniList&theme=dark" alt="AniList" />
   </a>
+  <a href="https://github.com/VoidX3D/hianime-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=hianime-api&theme=dark" alt="HiAnime API" />
+  </a>
 </p>
 
 
