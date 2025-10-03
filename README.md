@@ -71,13 +71,6 @@
 
 ---
 
-### 🌐 Visitor Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/VoidX3D/count.svg" alt="Visitor Counter" />
-</p>
-
----
-
 ### ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/prestonpla" target="_blank">
@@ -87,16 +80,3 @@
 
 ---
 
-### ⚡ Optional Advanced Addons (for maximum effect)
-
-- [x] Animated GIFs for project previews  
-- [x] Hoverable project cards (using shields or GIFs)  
-- [x] Live coding stats / WakaTime integration  
-- [x] Dark mode icons for all skills  
-- [x] Fully responsive alignment for all screens  
-
----
-
-💡 If you want, I can **actually generate animated GIF cards for each of your projects** and fully implement **hover effects** so your GitHub README feels like a live, interactive portfolio instead of a static page.  
-
-Do you want me to do that next?
