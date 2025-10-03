@@ -57,6 +57,7 @@
 ---
 
 ### 🏆 My Deployed Projects
+<!-- Row 1 -->
 <p align="center">
   <a href="https://github.com/VoidX3D/Portfolio" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio" />
@@ -66,11 +67,26 @@
   </a>
 </p>
 
+<!-- Row 2 -->
 <p align="center">
   <a href="https://github.com/VoidX3D/AniList" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniList&theme=dark" alt="AniList" />
   </a>
+  <a href="https://github.com/VoidX3D/AniPaca" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anipaca&theme=dark" alt="AniPaca" />
+  </a>
 </p>
+
+<!-- Row 4 -->
+<p align="center">
+  <a href="https://github.com/VoidX3D/AniWave" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniWave&theme=dark" alt="AniWave" />
+  </a>
+  <a href="https://github.com/VoidX3D/kitsune" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kitsune&theme=dark" alt="Kitsune" />
+  </a>
+</p>
+
 
 ---
 
