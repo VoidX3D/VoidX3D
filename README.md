@@ -42,7 +42,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+
   
   <!-- Frameworks & Tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
@@ -61,14 +62,29 @@
 
 ### 🏆 My Deployed Projects
 <p align="center">
-  <a href="https://portfolio-sincere.vercel.app/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio"/></a>
-  <a href="https://ubuntu-sincere.vercel.app/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Ubuntu-Sincere&theme=dark" alt="Ubuntu"/></a>
-  <a href="https://github.com/VoidX3D/exhibition-quiz-prototype" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=exhibition-quiz-prototype&theme=dark" alt="Quiz"/></a>
-  <a href="https://github.com/VoidX3D/anipaca" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anipaca&theme=dark" alt="AniPaca"/></a>
-  <a href="https://github.com/VoidX3D/AniWave" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniWave&theme=dark" alt="AniWave"/></a>
-  <a href="https://github.com/VoidX3D/kitsune" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kitsune&theme=dark" alt="Kitsune"/></a>
-  <a href="https://github.com/VoidX3D/AniList" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniList&theme=dark" alt="AniList"/></a>
+  <a href="https://portfolio-sincere.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio"/>
+  </a>
+  <a href="https://ubuntu-sincere.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Ubuntu-Sincere&theme=dark" alt="Ubuntu"/>
+  </a>
+  <a href="https://github.com/VoidX3D/exhibition-quiz-prototype" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=exhibition-quiz-prototype&theme=dark" alt="Quiz"/>
+  </a>
+  <a href="https://github.com/VoidX3D/anipaca" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anipaca&theme=dark" alt="AniPaca"/>
+  </a>
+  <a href="https://github.com/VoidX3D/AniWave" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniWave&theme=dark" alt="AniWave"/>
+  </a>
+  <a href="https://github.com/VoidX3D/kitsune" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kitsune&theme=dark" alt="Kitsune"/>
+  </a>
+  <a href="https://github.com/VoidX3D/AniList" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniList&theme=dark" alt="AniList"/>
+  </a>
 </p>
+
 
 ---
 
@@ -85,13 +101,6 @@
 - Built multiple **AI APIs and tools** for anime tracking and data analytics  
 - Experienced in **Next.js + Node.js backend**  
 - Knowledge of **Python AI libraries**, including TensorFlow, PyTorch, OpenAI API  
-
----
-
-### 👨‍💻 Visitor Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/VoidX3D/count.svg" alt="visitor-counter"/>
-</p>
 
 ---
 
