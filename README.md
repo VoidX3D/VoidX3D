@@ -15,7 +15,7 @@
   <a href="https://x.com/VortexVoidX3D?s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.instagram.com/taste_of_lifezigsh=MTZ3NW5jNXA1NWF2dw==" target="_blank">
+  <a href="https://www.instagram.com/sincerebhattarai/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:playzspreston2@gmail.com" target="_blank">
