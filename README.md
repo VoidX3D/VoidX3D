@@ -65,9 +65,6 @@
   <a href="https://github.com/VoidX3D/Portfolio" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio" />
   </a>
-</p>
-
-<p align="right">
   <a href="https://github.com/VoidX3D/exhibition-quiz-prototype" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=exhibition-quiz-prototype&theme=dark" alt="Exhibition Quiz Prototype" />
   </a>
