@@ -1202,4 +1202,137 @@ print(philosophy.daily_reflection())
 print("""
 ╔══════════════════════════════════════════════════════════╗
 ║                  REMEMBER ALWAYS:                         ║
-║
+║                                                           ║
+║  "Code is read more often than it is written."           ║
+║  "Make it work, make it right, make it fast."            ║
+║  "The best code is no code at all."                      ║
+║  "Premature optimization is the root of all evil."       ║
+║  "Programming is thinking, not typing."                  ║
+║                                                           ║
+║  But most importantly:                                    ║
+║  "Build things that matter. Ship things that work.       ║
+║   Help people who need it. Never stop learning."         ║
+╚══════════════════════════════════════════════════════════╝
+""")
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ FUN FACTS & RANDOM STUFF
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🎌 Anime & Inspiration
+      
+- **Favorite Anime:** Bleach ⚔️
+- **Favorite Character:** Ichigo Kurosaki
+- **Why Bleach?** The constant growth, never giving up attitude, and epic battles mirror the developer journey
+- **Coding Playlist:** Bleach OSTs + Lo-fi beats
+- **Watch Hours:** Way too many to count 😅
+      
+### ☕ Coding Fuel
+      
+- **Drink of Choice:** Coffee (lots of it)
+- **Favorite Snack:** Instant noodles at 2 AM
+- **Energy Source:** Determination + curiosity
+- **Debugging Companion:** Rubber duck (seriously works!)
+      
+### 🎮 Gaming & Hobbies
+      
+- **Favorite Games:** Story-driven RPGs
+- **Game Dev Interest:** Building my own engine
+- **Creative Outlets:** Drawing pixel art, music
+- **Relaxation:** Long walks, mountain views (Nepal perks!)
+      
+    </td>
+    <td width="50%" valign="top">
+      
+### 🏔️ Life in Nepal
+      
+- **Location:** Beautiful Pokhara city
+- **Views:** Himalayas from my window 🏔️
+- **Community:** Growing tech scene
+- **Internet:** Sometimes struggles, but we make it work
+- **Time Zone:** UTC+5:45 (yes, that's real!)
+      
+### 📚 Learning Style
+      
+- **Method:** 70% building, 20% reading, 10% tutorials
+- **Best Time:** Late night coding sessions
+- **Learning From:** Errors, Stack Overflow, docs
+- **Knowledge Sharing:** Technical blogs, Twitter threads
+      
+### 🎯 Random Dev Facts
+      
+- **First Language:** HTML/CSS (age 12)
+- **First Real Project:** A calculator (we all start somewhere!)
+- **Biggest Bug Hunt:** 6 hours for missing semicolon
+- **Code Editor:** VS Code with 50+ extensions
+- **Theme:** Dark mode only (light mode hurts!)
+- **Commits:** Usually at odd hours (night owl 🦉)
+      
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### 🎨 Development Environment
+
+```bash
+# My typical development setup
+╔════════════════════════════════════════╗
+║  💻 Hardware                            ║
+║  • Laptop: Mid-range but gets job done ║
+║  • Monitor: 1080p (dreaming of 4K)     ║
+║  • Keyboard: Mechanical (clicky!)      ║
+║  • Mouse: Gaming mouse (precise)       ║
+║                                         ║
+║  🛠️ Software Stack                      ║
+║  • OS: Windows 11 / Ubuntu dual boot   ║
+║  • Terminal: Windows Terminal + Oh My Zsh ║
+║  • Editor: VS Code (Dracula theme)     ║
+║  • Browser: Chrome Dev Tools expert    ║
+║                                         ║
+║  🎧 Coding Atmosphere                   ║
+║  • Music: Lo-fi + Anime OSTs           ║
+║  • Lighting: RGB everything 🌈         ║
+║  • Drinks: Coffee machine essential    ║
+║  • Time: Usually 10 PM - 3 AM          ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## 📈 WEEKLY CODING ACTIVITY
+
+</div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Week: 25 December 2024 - 01 January 2025
+
+TypeScript      14 hrs 23 mins  ████████████░░░░░░░░   48.3%
+JavaScript       9 hrs 12 mins  ████████░░░░░░░░░░░░   30.9%
+Python           4 hrs 45 mins  ████░░░░░░░░░░░░░░░░   16.0%
+HTML/CSS         1 hr 15 mins   █░
