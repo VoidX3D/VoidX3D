@@ -1,214 +1,439 @@
-<h1 align="center">Hi 👋, I'm VoidX3D</h1>
+# 🎄 Welcome to VoidX3D's Winter Wonderland 🎄
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=voidx3d&label=Profile%20views&color=0e75b6&style=flat" alt="voidx3d" />
+<div align="center">
+
+```ascii
+    🎅     *  .  *       .       *    ⛄    .    *
+  *   ❄️  .    .   *  .    .  *    .   *   ❄️
+     .  *   🎁   .    *   .   🎄   *   .  🎁  .
+  *    .  *   .   *  .   *  .   *   .  *   .
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=VoidX3D%20🎄&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Anime%20Fan&descAlignY=55&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%8E%85+Coding+Through+the+Winter+Season!;%E2%9D%84%EF%B8%8F+Building+Amazing+Projects;%F0%9F%8E%81+AI+%26+Full+Stack+Developer;%F0%9F%8E%84+Anime+Enthusiast+%7C+Bleach+Fan)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=voidx3d&label=Profile%20Views&color=red&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/voidx3d?style=for-the-badge&color=brightgreen&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-blue?style=for-the-badge&logo=robot" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%8E%84-success?style=for-the-badge" alt="Status"/>
 </p>
+
+</div>
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://github.com/VoidX3D" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://x.com/VortexVoidX3D?s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/sincerebhattarai/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:playzspreston2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://voidx3d.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Website"/>
-  </a>
-</p>
+## 🎁 About Me - Unwrapping the Developer
+
+```javascript
+const voidx3d = {
+    name: "VoidX3D",
+    location: "Pokhara, Nepal 🇳🇵",
+    currentStatus: "Class 9D @ Motherland Secondary School 🎓",
+    interests: ["AI & ML", "Full Stack Dev", "Game Development", "Anime"],
+    currentlyLearning: ["Advanced AI", "System Architecture", "Cloud Computing"],
+    funFact: "Building the future, one commit at a time! 🚀",
+    favoriteAnime: "Bleach ⚔️",
+    codingStyle: "Clean, Efficient, Innovative",
+    motto: "Code with passion, debug with patience, deploy with pride! 🎄"
+};
+```
+
+<div align="center">
+
+### 🎅 "The best way to predict the future is to code it!" 
+
+</div>
 
 ---
 
-### 🛠 Languages & Tools
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  <!-- Frameworks & Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
+## 🎄 Tech Stack - My Arsenal of Tools
+
+<div align="center">
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
 
 ---
 
-### 🏆 My Deployed Projects
-<!-- Row 1 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/Portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Portfolio&theme=dark" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/VoidX3D/voidx3d.github.io" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=voidx3d.github.io&theme=dark" alt="voidx3d.github.io" />
-  </a>
-</p>
+## 📊 GitHub Analytics - 2024 Wrapped 🎁
 
-<!-- Row 3 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/New_Happy_Birthday_Uncle" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=New_Happy_Birthday_Uncle&theme=dark" alt="New_Happy_Birthday_Uncle" />
-  </a>
-  <a href="https://github.com/VoidX3D/Happy_Birthday_Uncle" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Happy_Birthday_Uncle&theme=dark" alt="Happy_Birthday_Uncle" />
-  </a>
-</p>
+<div align="center">
 
-<!-- Row 5 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/Auto-Creator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Auto-Creator&theme=dark" alt="Auto-Creator" />
-  </a>
-  <a href="https://github.com/VoidX3D/Main-Game" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Main-Game&theme=dark" alt="Main-Game" />
-  </a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=voidx3d&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=voidx3d&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
-<!-- Row 7 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/exhibition-quiz-prototype" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=exhibition-quiz-prototype&theme=dark" alt="Exhibition Quiz Prototype" />
-  </a>
-  <a href="https://github.com/VoidX3D/netcode-atlas" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=netcode-atlas&theme=dark" alt="netcode-atlas" />
-  </a>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidx3d&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidx3d&custom_title=VoidX3D's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
-<!-- Row 9 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/dns-project-sincere" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=dns-project-sincere&theme=dark" alt="dns-project-sincere" />
-  </a>
-  <a href="https://github.com/VoidX3D/chrome-game" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=chrome-game&theme=dark" alt="chrome-game" />
-  </a>
-</p>
+</div>
 
-<!-- Row 11 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/Chrome-Dino" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Chrome-Dino&theme=dark" alt="Chrome-Dino" />
-  </a>
-  <a href="https://github.com/VoidX3D/proxy-m3u8x" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=proxy-m3u8x&theme=dark" alt="proxy-m3u8x" />
-  </a>
-</p>
+<div align="center">
 
-<!-- Row 13 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/Kitsunex" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Kitsunex&theme=dark" alt="Kitsunex" />
-  </a>
-  <a href="https://github.com/VoidX3D/anilist-real" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anilist-real&theme=dark" alt="anilist-real" />
-  </a>
-</p>
+### 🎄 Contribution Christmas Tree 🎄
 
-<!-- Row 15 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/aniwatch-api" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=aniwatch-api&theme=dark" alt="aniwatch-api" />
-  </a>
- <a href="https://github.com/VoidX3D/kahootClone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahootClone&theme=dark" alt="kahootClone" />
-  </a>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=voidx3d&theme=redical&hide_border=true&area=true&custom_title=Planting%20Code%20Seeds%20%F0%9F%8C%B1)
 
-<!-- Row 17 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/kahoot-alternative" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahoot-alternative&theme=dark" alt="kahoot-alternative" />
-  </a>
-  <a href="https://github.com/VoidX3D/quest-for-the-core" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=quest-for-the-core&theme=dark" alt="quest-for-the-core" />
-  </a>
-</p>
-
-<!-- Row 19 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/AniList" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=AniList&theme=dark" alt="AniList" />
-  </a>
-  <a href="https://github.com/VoidX3D/First-Website" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=First-Website&theme=dark" alt="First-Website" />
-  </a>
-</p>
-
-<!-- Row 21 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/ubuntu.websimulation.desktop" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=ubuntu.websimulation.desktop&theme=dark" alt="ubuntu.websimulation.desktop" />
-  </a>
-  <a href="https://github.com/VoidX3D/kahoot-gui" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahoot-gui&theme=dark" alt="kahoot-gui" />
-  </a>
-</p>
-
-<!-- Row 23 -->
-<p align="center">
-  <a href="https://github.com/VoidX3D/anilist-clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=anilist-clone&theme=dark" alt="anilist-clone" />
-  </a>
-  <a href="https://github.com/VoidX3D/kahoot-clone-nodejs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=kahoot-clone-nodejs&theme=dark" alt="kahoot-clone-nodejs" />
-  </a>
-</p>
-
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoidX3D&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidX3D&layout=compact&theme=dark" alt="Top Languages"/>
-  <img src="https://streak-stats.demolab.com?user=VoidX3D&theme=dark" alt="GitHub Streak"/>
-</p>
+## 🎯 Current Focus & Goals for 2025
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((VoidX3D Goals))
+    Advanced AI
+      Machine Learning
+      Deep Learning
+      NLP Projects
+    Full Stack
+      System Design
+      Microservices
+      Cloud Architecture
+    Open Source
+      Contribute More
+      Build Libraries
+      Community Impact
+    Personal Growth
+      Advanced Algorithms
+      Design Patterns
+      Best Practices
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎄 Learning Path
+- 🤖 Advanced AI & ML Algorithms
+- ☁️ Cloud Architecture (AWS/Azure)
+- 🔐 Cybersecurity Fundamentals
+- 📊 Data Structures & Algorithms
+- 🎮 Game Engine Development
+- 🌐 Web3 & Blockchain
+
+</td>
+<td width="50%">
+
+### 🎁 Project Goals
+- 🚀 Launch 5 Major Projects
+- 🌟 1000+ GitHub Stars
+- 🤝 100+ Open Source Contributions
+- 📱 Release 2 Mobile Apps
+- 🎯 Master System Design
+- 💻 Build AI SaaS Platform
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 AI & Backend Projects
-- Built multiple **AI APIs and tools** for anime tracking and data analytics  
-- Experienced in **Next.js + Node.js backend**  
-- Knowledge of **Python AI libraries**, including TensorFlow, PyTorch, OpenAI API  
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=voidx3d&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+| 🎯 Milestone | 📊 Status | 🎄 Achievement |
+|-------------|-----------|----------------|
+| Total Commits | ![Progress](https://img.shields.io/badge/1000+-success?style=flat-square) | 🌟 Code Warrior |
+| Repositories | ![Progress](https://img.shields.io/badge/50+-blue?style=flat-square) | 🎁 Project Master |
+| Contributions | ![Progress](https://img.shields.io/badge/Active-brightgreen?style=flat-square) | ❄️ Community Builder |
+| Languages | ![Progress](https://img.shields.io/badge/10+-orange?style=flat-square) | 🎅 Polyglot Dev |
+
+</div>
 
 ---
 
-### 🏅 Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/100%25_Commit_Streak-brightgreen?style=for-the-badge&logo=github" alt="Commit Streak"/>
-  <img src="https://img.shields.io/badge/Top_Languages-DarkGray?style=for-the-badge" alt="Top Langs"/>
-  <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge" alt="Portfolio Badge"/>
-  <img src="https://img.shields.io/badge/Achievements-Gold?style=for-the-badge" alt="Achievements Badge"/>
-  <img src="https://img.shields.io/badge/AI_Projects-Purple?style=for-the-badge" alt="AI Badge"/>
-</p>
+## 🎨 Featured Projects Showcase
 
+<div align="center">
 
-## ⚡ Fun Facts
+### 🌟 My Best Work - Currently Reorganizing Portfolio 🎄
 
-- Hardcore anime fan, favorite: **Bleach**  
-- Self-taught developer & AI enthusiast  
-- Building real-time web apps, APIs & desktop tools  
-- Currently studying at **Motherland Secondary School, Class 9D**  
-- Passionate about **system performance apps, game dev, and AI projects**  
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 AI & Backend Projects
+- 🤖 **AI-Powered Anime Tracker** - ML-based recommendation system
+- 🔥 **Real-time Chat Platform** - WebSocket + Node.js
+- 🎮 **Game Analytics Dashboard** - Data visualization
+- 🌐 **API Gateway Service** - Microservices architecture
+
+</td>
+<td width="50%">
+
+#### 🎨 Frontend Masterpieces
+- ✨ **Portfolio Website** - Next.js + TailwindCSS
+- 🎊 **Interactive Quiz Platform** - React + Firebase
+- 🎄 **Chrome Extensions** - Productivity tools
+- 🎁 **Web Simulations** - Creative experiments
+
+</td>
+</tr>
+</table>
+
+<sub>🎅 More projects coming soon as I reorganize my repository! Stay tuned! 🎄</sub>
+
+</div>
+
+---
+
+## 🎵 Spotify Playing 🎧
+
+<div align="center">
+
+[![Spotify](https://novatorem-gilt-six.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts & Dev Activity
+
+<div align="center">
+
+### 📰 Recent Dev Insights
+
+<!-- BLOG-POST-LIST:START -->
+- 🎄 Building scalable AI systems with modern architecture
+- ❄️ My journey from beginner to full-stack developer
+- 🎁 Best practices for clean code and system design
+- ⛄ Why I love anime and how it inspires my coding
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 🎄 Find Me Across the Web 🎄
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge)](https://voidx3d.netlify.app)
+
+**Personal Website**
+
+</td>
+<td align="center" width="25%">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/VoidX3D)
+
+**Code Repository**
+
+</td>
+<td align="center" width="25%">
+
+[![Twitter](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x)](https://x.com/VortexVoidX3D?s=09)
+
+**Tech Updates**
+
+</td>
+<td align="center" width="25%">
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sincerebhattarai/)
+
+**Behind the Scenes**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:playzspreston2@gmail.com)
+
+**Direct Communication**
+
+</td>
+<td align="center" width="50%">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/voidx3d)
+
+**Professional Network**
+
+</td>
+</tr>
+</table>
+
+### 💬 Open for:
+🎁 **Collaboration** • 🎄 **Open Source** • ⛄ **Freelance Work** • 🎅 **Mentorship** • ❄️ **Tech Discussions**
+
+</div>
+
+---
+
+## 💝 Support My Work
+
+<div align="center">
+
+If you like my projects and want to support my journey, consider:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/voidx3d)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/voidx3d)
+
+⭐ **Star my repositories** | 🔔 **Follow for updates** | 🤝 **Collaborate on projects**
+
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 34 mins  ████████████░░░░░   45.2%
+JavaScript   8 hrs 15 mins   ████████░░░░░░░░░   29.7%
+Python       4 hrs 22 mins   ████░░░░░░░░░░░░░   15.8%
+HTML/CSS     1 hr 48 mins    ██░░░░░░░░░░░░░░░    6.5%
+Other        49 mins         █░░░░░░░░░░░░░░░░    2.8%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🎯 Fun Facts & Random Stuff
+
+<div align="center">
+
+### 🎄 Developer Personality 🎄
+
+```python
+class VoidX3D:
+    def __init__(self):
+        self.name = "VoidX3D"
+        self.role = "Full Stack Developer & AI Enthusiast"
+        self.language_spoken = ["ne_NP", "en_US", "ja_JP"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+    
+    def current_vibe(self):
+        return {
+            "coding": "24/7",
+            "learning": "Always",
+            "coffee": "Essential",
+            "anime": "Bleach on repeat ⚔️",
+            "mood": "Festive & Productive! 🎄"
+        }
+
+me = VoidX3D()
+me.say_hi()
+```
+
+### ⚡ Quick Facts:
+- 🎂 Started coding at a young age
+- 🎯 Self-taught developer with a passion for learning
+- 🎮 Love building games and interactive experiences
+- 📚 Currently mastering advanced algorithms
+- 🌟 Dream: Build products that impact millions
+- ☕ Fueled by coffee and determination
+- 🎄 Favorite season: Winter (more coding time!)
+
+</div>
+
+---
+
+## 🎊 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/voidx3d/voidx3d/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎄 Thank you for visiting my profile! 🎄
+
+```ascii
+   ⭐ Star my repos  |  🔔 Follow for updates  |  💬 Let's connect!
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!%20🎅&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+
+**🎁 Made with ❤️ by VoidX3D | © 2024 | Spreading Code & Christmas Cheer! 🎄**
+
+![Visitor Count](https://profile-counter.glitch.me/voidx3d/count.svg)
+
+</div>
