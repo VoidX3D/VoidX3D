@@ -1335,4 +1335,151 @@ Week: 25 December 2024 - 01 January 2025
 TypeScript      14 hrs 23 mins  ████████████░░░░░░░░   48.3%
 JavaScript       9 hrs 12 mins  ████████░░░░░░░░░░░░   30.9%
 Python           4 hrs 45 mins  ████░░░░░░░░░░░░░░░░   16.0%
-HTML/CSS         1 hr 15 mins   █░
+HTML/CSS         1 hr 15 mins   █░░░░░░░░░░░░░░░░░░░    4.2%
+Other              12 mins      ░░░░░░░░░░░░░░░░░░░░    0.6%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## 🎄 SPECIAL CHRISTMAS PROJECTS 2024
+
+</div>
+
+<div align="center">
+
+### 🎅 Christmas Card - Interactive Vite App
+
+[![Christmas Card](https://img.shields.io/badge/🎄_Live_Demo-Visit_Now-red?style=for-the-badge&logo=vercel&logoColor=white)](https://christms-card-my.vercel.app)
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h4>✨ Features</h4>
+      <ul align="left">
+        <li>🎨 Beautiful animated Christmas card</li>
+        <li>❄️ Interactive snowfall effects</li>
+        <li>🎵 Festive background music</li>
+        <li>🎁 Personalized greetings</li>
+        <li>⚡ Built with Vite for blazing fast performance</li>
+        <li>📱 Fully responsive design</li>
+        <li>✨ Smooth animations and transitions</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h4>🛠️ Tech Stack</h4>
+      <ul align="left">
+        <li><b>Framework:</b> Vite</li>
+        <li><b>Frontend:</b> HTML, CSS, JavaScript</li>
+        <li><b>Animations:</b> CSS3 & Canvas</li>
+        <li><b>Deployment:</b> Vercel</li>
+        <li><b>Design:</b> Custom festive theme</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Christms-Card&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=00FF00)](https://github.com/VoidX3D/Christms-Card)
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Season-Christmas_2024-red?style=for-the-badge&logo=snowflake" alt="Season"/>
+  <img src="https://img.shields.io/badge/Type-Interactive_Card-blue?style=for-the-badge&logo=gift" alt="Type"/>
+</p>
+
+### 🎁 Special Features
+
+```javascript
+// Christmas Card Magic ✨
+const christmasCard = {
+  theme: "Winter Wonderland",
+  effects: ["Falling Snow", "Twinkling Stars", "Glowing Lights"],
+  music: "Festive Melodies",
+  interaction: "Click to reveal surprises",
+  message: "Spreading joy and code this season! 🎄",
+  
+  specialTouches: [
+    "Animated Santa sleigh",
+    "3D Christmas tree",
+    "Particle snow system",
+    "Custom holiday fonts",
+    "Festive color palette"
+  ],
+  
+  technicalHighlights: [
+    "Canvas-based animations",
+    "Performance optimized",
+    "No external dependencies",
+    "Pure vanilla JavaScript",
+    "Responsive across all devices"
+  ]
+};
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## 🎊 RANDOM DEV QUOTE
+
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20with%20passion,%20debug%20with%20patience,%20deploy%20with%20pride!&author=VoidX3D" alt="Quote"/>
+</div>
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  "First, solve the problem. Then, write the code."               ║
+║                                        - John Johnson            ║
+║                                                                  ║
+║  "The best error message is the one that never shows up."        ║
+║                                        - Thomas Fuchs            ║
+║                                                                  ║
+║  "Code is like humor. When you have to explain it, it's bad."    ║
+║                                        - Cory House              ║
+║                                                                  ║
+║  "Make it work, make it right, make it fast."                    ║
+║                                        - Kent Beck               ║
+║                                                                  ║
+║  "Any fool can write code that a computer can understand.        ║
+║   Good programmers write code that humans can understand."       ║
+║                                        - Martin Fowler           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 SUPPORT MY WORK
+
+</div>
+
+<div align="center">
+
+If you like my projects and want to support my journey, consider:
