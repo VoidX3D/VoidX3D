@@ -1446,23 +1446,23 @@ const christmasCard = {
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "First, solve the problem. Then, write the code."               ║
+║                                                                   ║
+║  "First, solve the problem. Then, write the code."              ║
 ║                                        - John Johnson            ║
-║                                                                  ║
-║  "The best error message is the one that never shows up."        ║
+║                                                                   ║
+║  "The best error message is the one that never shows up."       ║
 ║                                        - Thomas Fuchs            ║
-║                                                                  ║
-║  "Code is like humor. When you have to explain it, it's bad."    ║
+║                                                                   ║
+║  "Code is like humor. When you have to explain it, it's bad."   ║
 ║                                        - Cory House              ║
-║                                                                  ║
-║  "Make it work, make it right, make it fast."                    ║
+║                                                                   ║
+║  "Make it work, make it right, make it fast."                   ║
 ║                                        - Kent Beck               ║
-║                                                                  ║
-║  "Any fool can write code that a computer can understand.        ║
-║   Good programmers write code that humans can understand."       ║
+║                                                                   ║
+║  "Any fool can write code that a computer can understand.       ║
+║   Good programmers write code that humans can understand."      ║
 ║                                        - Martin Fowler           ║
-║                                                                  ║
+║                                                                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -1483,3 +1483,267 @@ const christmasCard = {
 <div align="center">
 
 If you like my projects and want to support my journey, consider:
+
+<p>
+  <a href="https://www.buymeacoffee.com/voidx3d">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/voidx3d">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://github.com/sponsors/VoidX3D">
+    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/>
+  </a>
+</p>
+
+### 💖 Ways to Support
+
+<table>
+  <tr>
+    <td align="center">
+      <h4>⭐ Star Repositories</h4>
+      <p>Give a star to repos you find useful</p>
+    </td>
+    <td align="center">
+      <h4>🔔 Follow Me</h4>
+      <p>Stay updated with my projects</p>
+    </td>
+    <td align="center">
+      <h4>🤝 Collaborate</h4>
+      <p>Work together on projects</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🐛 Report Bugs</h4>
+      <p>Help improve code quality</p>
+    </td>
+    <td align="center">
+      <h4>💡 Share Ideas</h4>
+      <p>Suggest new features</p>
+    </td>
+    <td align="center">
+      <h4>📢 Spread Word</h4>
+      <p>Share with your network</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## 📬 GET IN TOUCH
+
+</div>
+
+<div align="center">
+
+### 💌 Let's Connect and Build Together!
+
+<p>
+I'm always open to interesting conversations, collaboration opportunities, and helping fellow developers. Whether you want to discuss a project, ask about my work, or just chat about tech and anime, feel free to reach out!
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:playzspreston2@gmail.com">
+        <img src="https://img.shields.io/badge/Email-playzspreston2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://x.com/VortexVoidX3D">
+        <img src="https://img.shields.io/badge/X-@VortexVoidX3D-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VoidX3D">
+        <img src="https://img.shields.io/badge/GitHub-VoidX3D-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📍 Response Time
+
+<table align="center">
+  <tr>
+    <td>📧 Email</td>
+    <td>Within 24-48 hours</td>
+  </tr>
+  <tr>
+    <td>🐦 X (Twitter)</td>
+    <td>Usually within hours</td>
+  </tr>
+  <tr>
+    <td>💬 GitHub Issues</td>
+    <td>Best for technical questions</td>
+  </tr>
+  <tr>
+    <td>📱 Instagram</td>
+    <td>Casual conversations</td>
+  </tr>
+</table>
+
+### 🎯 Best Topics to Discuss
+
+```yaml
+Technical:
+  - Backend architecture and APIs
+  - AI/ML integration in applications
+  - System design and scalability
+  - Performance optimization
+  - Open source collaboration
+
+Projects:
+  - Want to collaborate on something cool?
+  - Have an idea you want to discuss?
+  - Need help with a technical challenge?
+  - Looking for a contributor?
+
+Learning:
+  - Study together on complex topics
+  - Share learning resources
+  - Code review and feedback
+  - Career advice and guidance
+
+Fun:
+  - Anime discussions (especially Bleach!)
+  - Gaming and game development
+  - Tech trends and innovations
+  - Random tech memes
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+---
+
+<div align="center">
+
+## 🎄 THANK YOU FOR VISITING! 🎄
+
+</div>
+
+<div align="center">
+
+### ✨ Every visitor makes my day! ✨
+
+<p>
+Whether you're here to check out my projects, looking for collaboration, or just browsing through, I appreciate you taking the time to visit my profile. If something here caught your interest, don't hesitate to reach out or star a repository!
+</p>
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+```ascii
+   ⭐ Star repos you like  •  🔔 Follow for updates  •  💬 Let's collaborate!
+```
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+</p>
+
+### 🎯 Quick Stats Recap
+
+<p>
+  <img src="https://img.shields.io/badge/Projects-50+-blue?style=flat-square" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Languages-10+-purple?style=flat-square" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Commits-1000+-green?style=flat-square" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Learning-Always-orange?style=flat-square" alt="Learning"/>
+  <img src="https://img.shields.io/badge/Coffee-Essential-brown?style=flat-square" alt="Coffee"/>
+</p>
+
+### 🚀 Current Status
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-success?style=for-the-badge&logo=rocket" alt="Status"/>
+  <img src="https://img.shields.io/badge/Mood-Festive_&_Productive-yellow?style=for-the-badge&logo=snowflake" alt="Mood"/>
+  <img src="https://img.shields.io/badge/Availability-Open_For_Collaboration-brightgreen?style=for-the-badge&logo=handshake" alt="Availability"/>
+</p>
+
+### 📊 Profile Statistics
+
+<p>
+  <img src="https://visitcount.itsvg.in/api?id=voidx3d&icon=5&color=0" alt="Visit Count"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/VoidX3D?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/VoidX3D?label=Stars&style=social" alt="GitHub Stars"/>
+</p>
+
+</div>
+
+<!-- CUSTOM FOOTER SVG -->
+<div align="center">
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Animated waves -->
+  <path fill="url(#footerGrad)" opacity="0.4">
+    <animate attributeName="d" 
+      dur="10s" 
+      repeatCount="indefinite"
+      values="M0,100 Q250,50 500,100 T1000,100 L1000,200 L0,200 Z;
+              M0,100 Q250,150 500,100 T1000,100 L1000,200 L0,200 Z;
+              M0,100 Q250,50 500,100 T1000,100 L1000,200 L0,200 Z"/>
+  </path>
+  
+  <!-- Footer text -->
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="32" font-weight="bold" font-family="Arial">
+    Happy Coding! ⚔️
+  </text>
+  
+  <text x="50%" y="70%" text-anchor="middle" fill="#00D9FF" font-size="16" font-family="monospace">
+    🎁 Made with ❤️ by VoidX3D | © 2024-2025
+  </text>
+  
+  <text x="50%" y="85%" text-anchor="middle" fill="white" font-size="14" font-family="monospace">
+    Backend Engineer • AI Builder • Anime Fan • Christmas Enthusiast 🎄
+  </text>
+  
+  <!-- Decorative elements -->
+  <text x="20%" y="45%" font-size="30" opacity="0.8">🎄</text>
+  <text x="80%" y="45%" font-size="30" opacity="0.8">🎄</text>
+  <text x="30%" y="90%" font-size="20" opacity="0.6">❄️</text>
+  <text x="70%" y="90%" font-size="20" opacity="0.6">❄️</text>
+</svg>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer&text=Keep%20Coding!%20⚔️&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+</div>
+
+<div align="center">
+
+---
+
+<sub>⚡ Powered by passion, coffee, and determination | Built with Markdown + SVG + Love 💖</sub>
+
+<sub>🎮 Currently: Coding • Learning • Building • Sharing | Always improving, never stopping</sub>
+
+---
+
+</div>
