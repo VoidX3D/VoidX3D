@@ -40,11 +40,7 @@
 
 </div>
 
-I am VoidX3D, a passionate Full Stack Developer and Backend Engineer with 3+ years of self-taught experience. Based in Pokhara, Nepal 🇳🇵, I specialize in building production-ready systems, creating AI-powered tools & APIs, and shipping real projects that matter. My journey is fueled by a relentless curiosity and a commitment to continuous learning.
-
-## 🎯 About Me - The Developer Behind the Code
-
-I am **VoidX3D**, a passionate Full Stack Developer and Backend Engineer with a strong focus on building robust, scalable, and intelligent systems. With over **3 years of self-taught development experience**, I thrive on transforming complex ideas into functional and efficient solutions.
+I am **VoidX3D**, a passionate Full Stack Developer and Backend Engineer with 3+ years of self-taught experience. Based in Pokhara, Nepal 🇳🇵, I specialize in building production-ready systems, creating AI-powered tools & APIs, and shipping real projects that matter. My journey is fueled by a relentless curiosity and a commitment to continuous learning.
 
 ### Personal Information
 
