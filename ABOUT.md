@@ -9,8 +9,8 @@ I am **VoidX3D**, a passionate Full Stack Developer and Backend Engineer with a 
 | **Name**     | VoidX3D                                    |
 | **Role**     | Full Stack Developer & Backend Engineer    |
 | **Location** | Pokhara, Gandaki Pradesh, Nepal 🇳🇵         |
-| **Education**| Class 9D @ Motherland Secondary School     |
-| **Age**      | 15                                         |
+| **Education**| @ Motherland Secondary School     |
+| **Age**      | 17                                         |
 | **Experience**| 3+ years of self-taught development        |
 
 ### Interests & Focus Areas
