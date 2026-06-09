@@ -621,6 +621,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack | Stars |
 |:--------|:------------|:------|:-----:|
+<!-- FEATURED_TABLE_START -->
 | [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | Full-featured anime tracker with AniList/MyAnimeList API integration, smart recs, PWA & glassmorphism UI | Next.js, Supabase, TS | ⭐3 |
 | [**RU Club Website**](https://github.com/VoidX3D/RU_Club_Website) | Official site for Motherland RU Club environmental squad, Pokhara | React, TS, Supabase, Tailwind | ⭐2 |
 | [**RU Admin Site**](https://github.com/VoidX3D/RU_Admin_Site) | React 19 admin panel — manage missions, members, announcements, partners | React 19, TS, Supabase, Vite | ⭐0 |
@@ -629,6 +630,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 | [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial HiAnime.to REST API — scrape anime data, episodes, streaming links | TypeScript, Node.js | ⭐0 |
 | [**Demo-Repo**](https://github.com/VoidX3D/Demo-Repo) | Interactive clone sites hub — visually appealing UI | JavaScript | ⭐1 |
 | [**vite-react-template**](https://github.com/VoidX3D/vite-react-template) | Modern Vite + React starter with best practices baked in | TS, Vite, React | ⭐1 |
+<!-- FEATURED_TABLE_END -->
 
 </div>
 
@@ -636,6 +638,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 <!-- PROJECT CARDS -->
 <div align="center">
+<!-- FEATURED_CARDS_START -->
   <a href="https://github.com/VoidX3D/Anime-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Anime-Tracker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anime-Tracker"/></a>
   <a href="https://github.com/VoidX3D/RU_Club_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Club_Website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU Club Website"/></a>
   <a href="https://github.com/VoidX3D/RU_Admin_Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Admin_Site&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU Admin Site"/></a>
@@ -644,6 +647,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
   <a href="https://github.com/VoidX3D/hianime-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=hianime-api&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="hianime-api"/></a>
   <a href="https://github.com/VoidX3D/Demo-Repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Demo-Repo&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Demo-Repo"/></a>
   <a href="https://github.com/VoidX3D/vite-react-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=vite-react-template&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="vite-react-template"/></a>
+<!-- FEATURED_CARDS_END -->
 </div>
 
 <br>

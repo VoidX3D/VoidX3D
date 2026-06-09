@@ -1,0 +1,170 @@
+name: 🌟 Update README Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:        # Manual trigger
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Update Repository Data
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch & Update Stats
+        run: |
+          cat > update-readme.mjs << 'SCRIPT'
+          import { writeFileSync, readFileSync } from 'fs';
+
+          const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+          const USERNAME = 'VoidX3D';
+          const README_PATH = 'README.md';
+
+          // ---- FETCH ALL REPOS ----
+          async function fetchAllRepos() {
+            let page = 1;
+            let allRepos = [];
+            while (true) {
+              const res = await fetch(
+                `https://api.github.com/users/${USERNAME}/repos?per_page=100&page=${page}&sort=updated&direction=desc`,
+                { headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: 'application/vnd.github.v3+json' } }
+              );
+              if (!res.ok) throw new Error(`GitHub API error: ${res.status}`);
+              const repos = await res.json();
+              if (repos.length === 0) break;
+              allRepos = allRepos.concat(repos);
+              page++;
+            }
+            return allRepos.filter(r => !r.fork && !r.archived);
+          }
+
+          // ---- GENERATE PROJECT ROWS ----
+          function generateProjectRows(repos, names) {
+            return names.map(name => {
+              const repo = repos.find(r => r.name === name);
+              if (!repo) return null;
+              const stars = repo.stargazers_count > 0 ? `⭐${repo.stargazers_count}` : '⭐0';
+              const lang = repo.language || 'N/A';
+              const desc = (repo.description || 'No description').replace(/\|/g, '-');
+              return `| [**${name}**](https://github.com/${USERNAME}/${name}) | ${desc} | ${lang} | ${stars} |`;
+            }).filter(Boolean).join('\n');
+          }
+
+          // ---- GENERATE README CARDS ----
+          function generateCards(repos, names) {
+            return names.map(name => {
+              const repo = repos.find(r => r.name === name);
+              if (!repo || repo.stargazers_count === undefined) return '';
+              return `  <a href="https://github.com/${USERNAME}/${name}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${name}&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="${name}"/></a>`;
+            }).filter(Boolean).join('\n');
+          }
+
+          // ---- UPDATE SECTION ----
+          function updateSection(content, startMarker, endMarker, newContent) {
+            const start = content.indexOf(startMarker);
+            const end = content.indexOf(endMarker, start);
+            if (start === -1 || end === -1) {
+              console.warn(`Markers not found: ${startMarker} / ${endMarker}`);
+              return content;
+            }
+            const before = content.substring(0, start + startMarker.length);
+            const after = content.substring(end);
+            return before + '\n' + newContent + '\n' + after;
+          }
+
+          const repos = await fetchAllRepos();
+          console.log(`Fetched ${repos.length} active repos`);
+
+          // Define project categories (order matters!)
+          const featuredNames = ['Anime-Tracker', 'RU_Club_Website', 'RU_Admin_Site', 'PixelPlayer', 'DexDiary', 'hianime-api', 'Demo-Repo', 'vite-react-template'];
+          const aiBackendNames = ['anilist-real', 'aniwatch-api', 'proxy-m3u8x', 'ANIWAVE1', 'api.consumet.org', 'voidx3d-api'];
+          const gameNames = ['quest-for-the-core', 'chrome-game', 'kahootClone'];
+          const webNames = ['Portfolio', 'ubuntu.websimulation.desktop', 'starpack', 'final', 'Varkzen', 'myvarkzen'];
+          const mobileNames = ['PixelPlayer', 'DexDiary', 'DexDiary-legacy'];
+          const holidayNames = ['Christms-Card', 'Christmas-Card', 'Christmas-Card-Belgium', 'MyChristmasCard', 'Happy-Bday-maya', 'christmas'];
+          const toolNames = ['Password-Manager', 'clcalc', 'vite-react-template', 'nextjs-project-starter', 'Backup', 'player', 'player-sheet', 'NewSheetAPI'];
+          const animeNames = ['miruro', 'myanime', 'Anilist-DB', 'void-archive'];
+          const schoolNames = ['sciencepresentation', 'science-study', 'football-card-pack-', 'WebWebWeb'];
+
+          let readme = readFileSync(README_PATH, 'utf-8');
+
+          const featuredTable = generateProjectRows(repos, featuredNames);
+          const featuredCards = generateCards(repos, featuredNames);
+
+          // Update featured table - the section between the header row and the next section
+          readme = updateSection(readme, '<!-- FEATURED_TABLE_START -->', '<!-- FEATURED_TABLE_END -->', featuredTable);
+          readme = updateSection(readme, '<!-- FEATURED_CARDS_START -->', '<!-- FEATURED_CARDS_END -->', featuredCards);
+
+          // Update AI & Backend section
+          const aiBackendTable = generateProjectRows(repos, aiBackendNames);
+          readme = updateSection(readme, '<!-- AI_BACKEND_TABLE_START -->', '<!-- AI_BACKEND_TABLE_END -->', aiBackendTable);
+
+          // Update Game section
+          const gameTable = generateProjectRows(repos, gameNames);
+          readme = updateSection(readme, '<!-- GAME_TABLE_START -->', '<!-- GAME_TABLE_END -->', gameTable);
+
+          // Update Web section
+          const webTable = generateProjectRows(repos, webNames);
+          readme = updateSection(readme, '<!-- WEB_TABLE_START -->', '<!-- WEB_TABLE_END -->', webTable);
+
+          // Update Mobile section
+          const mobileTable = generateProjectRows(repos, mobileNames);
+          readme = updateSection(readme, '<!-- MOBILE_TABLE_START -->', '<!-- MOBILE_TABLE_END -->', mobileTable);
+
+          // Update Holiday section
+          const holidayTable = generateProjectRows(repos, holidayNames);
+          readme = updateSection(readme, '<!-- HOLIDAY_TABLE_START -->', '<!-- HOLIDAY_TABLE_END -->', holidayTable);
+
+          // Update Tools section
+          const toolTable = generateProjectRows(repos, toolNames);
+          readme = updateSection(readme, '<!-- TOOL_TABLE_START -->', '<!-- TOOL_TABLE_END -->', toolTable);
+
+          // Update Anime section
+          const animeTable = generateProjectRows(repos, animeNames);
+          readme = updateSection(readme, '<!-- ANIME_TABLE_START -->', '<!-- ANIME_TABLE_END -->', animeTable);
+
+          // Update School section
+          const schoolTable = generateProjectRows(repos, schoolNames);
+          readme = updateSection(readme, '<!-- SCHOOL_TABLE_START -->', '<!-- SCHOOL_TABLE_END -->', schoolTable);
+
+          // Update profile stats badges
+          const totalRepos = repos.length;
+          const totalStars = repos.reduce((sum, r) => sum + r.stargazers_count, 0);
+          
+          // Update badges
+          readme = readme.replace(
+            /Repos-\d+\+/,
+            `Repos-${totalRepos}+`
+          );
+
+          writeFileSync(README_PATH, readme, 'utf-8');
+          console.log(`✅ README updated! ${repos.length} repos, ${totalStars} total stars`);
+          SCRIPT
+
+      - name: Run Update Script
+        run: node update-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
+
+      - name: Commit & Push Changes
+        run: |
+          git config user.name "VoidX3D Bot"
+          git config user.email "bot@voidx3d.dev"
+          git diff --quiet && echo "No changes to commit" || {
+            git add README.md
+            git commit -m "🤖 Auto-update project stats [skip ci]"
+            git push
+          }
