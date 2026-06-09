@@ -654,12 +654,14 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- AI_BACKEND_TABLE_START -->
 | [**AniList Real**](https://github.com/VoidX3D/anilist-real) | ML-based anime recommendation engine with real-time tracking & analytics | React, Node.js, MongoDB, ML |
 | [**AniWatch API**](https://github.com/VoidX3D/aniwatch-api) | Production streaming API with Redis caching, rate limiting, Docker deployment | Node.js, Express, Redis, Docker |
 | [**Proxy M3U8X**](https://github.com/VoidX3D/proxy-m3u8x) | HLS video proxy with intelligent load balancing, failover & CDN optimization | Node.js, Express, FFmpeg |
 | [**ANIWAVE1**](https://github.com/VoidX3D/ANIWAVE1) | Anime streaming platform | JavaScript, Node.js |
 | [**api.consumet.org**](https://github.com/VoidX3D/api.consumet.org) | Media information API (Consumet fork) | TypeScript, Node.js |
 | [**voidx3d-api**](https://github.com/VoidX3D/voidx3d-api) | Personal backend API service | JavaScript, Node.js |
+<!-- AI_BACKEND_TABLE_END -->
 
 </div>
 
@@ -673,9 +675,11 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- GAME_TABLE_START -->
 | [**Quest for the Core**](https://github.com/VoidX3D/quest-for-the-core) | Custom game engine with physics, pixel art & achievement system | JS, Canvas API |
 | [**Chrome Game**](https://github.com/VoidX3D/chrome-game) | Browser extension game — offline, local storage, smooth animations | JS, Chrome API |
 | [**Kahoot Clone**](https://github.com/VoidX3D/kahootClone) | Real-time multiplayer quiz with live leaderboards & custom creator | React, Socket.io, Node.js |
+<!-- GAME_TABLE_END -->
 
 </div>
 
@@ -689,12 +693,14 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- WEB_TABLE_START -->
 | [**Portfolio**](https://github.com/VoidX3D/Portfolio) | Personal portfolio — modern animations, fully responsive, blazing fast | Next.js, TailwindCSS, Framer |
 | [**Ubuntu Web Sim**](https://github.com/VoidX3D/ubuntu.websimulation.desktop) | Full desktop environment in-browser — file system, terminal, authentic UI | HTML, CSS, JS |
 | [**starpack**](https://github.com/VoidX3D/starpack) | Latest project — package manager/tooling | JavaScript |
 | [**final**](https://github.com/VoidX3D/final) | Latest TypeScript project | TypeScript |
 | [**Varkzen**](https://github.com/VoidX3D/Varkzen) | Web application project | JavaScript |
 | [**myvarkzen**](https://github.com/VoidX3D/myvarkzen) | Varkzen variant | JavaScript |
+<!-- WEB_TABLE_END -->
 
 </div>
 
@@ -708,9 +714,11 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- MOBILE_TABLE_START -->
 | [**PixelPlayer**](https://github.com/VoidX3D/PixelPlayer) | Privacy-first Android music player — Material 3, offline, equalizer, casting | Kotlin, Material 3 |
 | [**DexDiary**](https://github.com/VoidX3D/DexDiary) | Modern diary/journal app — track daily thoughts & memories | Kotlin |
 | [**DexDiary-legacy**](https://github.com/VoidX3D/DexDiary-legacy) | Legacy version of DexDiary | Kotlin |
+<!-- MOBILE_TABLE_END -->
 
 </div>
 
@@ -724,12 +732,14 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- HOLIDAY_TABLE_START -->
 | [**Christms-Card**](https://github.com/VoidX3D/Christms-Card) | Interactive Christmas card — snowfall, music, animations | Vite, HTML, CSS, JS |
 | [**Christmas-Card**](https://github.com/VoidX3D/Christmas-Card) | Festive digital Christmas card with holiday greetings | HTML, CSS, JS |
 | [**Christmas-Card-Belgium**](https://github.com/VoidX3D/Christmas-Card-Belgium) | Belgium-themed Christmas card | HTML, CSS, JS |
 | [**MyChristmasCard**](https://github.com/VoidX3D/MyChristmasCard) | Personal Christmas card project | HTML, CSS, JS |
 | [**Happy-Bday-maya**](https://github.com/VoidX3D/Happy-Bday-maya) | Animated birthday card with interactive design | HTML, CSS, JS |
 | [**christmas**](https://github.com/VoidX3D/christmas) | Latest Christmas-themed project | JavaScript |
+<!-- HOLIDAY_TABLE_END -->
 
 </div>
 
@@ -743,6 +753,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- TOOL_TABLE_START -->
 | [**Password-Manager**](https://github.com/VoidX3D/Password-Manager) | Secure password management tool | JavaScript |
 | [**clcalc**](https://github.com/VoidX3D/clcalc) | Command-line calculator utility | JavaScript |
 | [**vite-react-template**](https://github.com/VoidX3D/vite-react-template) | Vite + React starter template | TS, Vite |
@@ -751,6 +762,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 | [**player**](https://github.com/VoidX3D/player) | Media player application | JavaScript |
 | [**player-sheet**](https://github.com/VoidX3D/player-sheet) | Player data sheet manager | JavaScript |
 | [**NewSheetAPI**](https://github.com/VoidX3D/NewSheetAPI) | Sheet API service | JavaScript |
+<!-- TOOL_TABLE_END -->
 
 </div>
 
@@ -764,10 +776,12 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- ANIME_TABLE_START -->
 | [**miruro**](https://github.com/VoidX3D/miruro) | Anime streaming platform | TypeScript |
 | [**myanime**](https://github.com/VoidX3D/myanime) | Personal anime collection manager | TypeScript |
 | [**Anilist-DB**](https://github.com/VoidX3D/Anilist-DB) | AniList GraphQL database integration | HTML, GraphQL |
 | [**void-archive**](https://github.com/VoidX3D/void-archive) | Archive of Void projects | TypeScript |
+<!-- ANIME_TABLE_END -->
 
 </div>
 
@@ -781,10 +795,12 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+<!-- SCHOOL_TABLE_START -->
 | [**sciencepresentation**](https://github.com/VoidX3D/sciencepresentation) | Science presentation web project | HTML, CSS, JS |
 | [**science-study**](https://github.com/VoidX3D/science-study) | Science study tools & materials | HTML, CSS, JS |
 | [**football-card-pack-**](https://github.com/VoidX3D/football-card-pack-) | Football card collection app | JavaScript |
 | [**WebWebWeb**](https://github.com/VoidX3D/WebWebWeb) | Web experiment project | JavaScript |
+<!-- SCHOOL_TABLE_END -->
 
 </div>
 
