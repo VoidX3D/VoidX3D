@@ -1278,7 +1278,7 @@ If you like my projects and want to support my journey, here are some ways:
 <br>
 
 <sub>
-  ⚡ Built with Markdown + SVG Animations + Local Icons (57) + Pure Passion 💖<br>
+  ⚡ Built with Markdown + SVG Animations + Local Icons (60) + Pure Passion 💖<br>
   🎮 Currently coding at 2 AM with coffee, lo-fi beats, and zero bugs (we can dream) 🎧
 </sub>
 
