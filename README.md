@@ -241,7 +241,7 @@
 <p>
   <a href="https://github.com/VoidX3D"><img src="https://img.shields.io/badge/Profile_Views-2.8K+-blueviolet?style=for-the-badge&logo=eye&logoColor=white" alt="views"/></a>
   <a href="https://github.com/VoidX3D?tab=followers"><img src="https://img.shields.io/github/followers/VoidX3D?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=blue" alt="followers"/></a>
-  <a href="https://github.com/VoidX3D?tab=repositories"><img src="https://img.shields.io/badge/Repos-40+-orange?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+  <a href="https://github.com/VoidX3D?tab=repositories"><img src="https://img.shields.io/badge/Repos-23+-orange?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
   <a href="https://github.com/VoidX3D"><img src="https://img.shields.io/badge/Focus-Backend_%26_AI-red?style=for-the-badge&logo=robot&logoColor=white" alt="focus"/></a>
   <a href="https://github.com/VoidX3D/VoidX3D"><img src="https://img.shields.io/badge/Status-Shipping_%F0%9F%9A%80-success?style=for-the-badge&logoColor=white" alt="status"/></a>
   <a href="https://github.com/sponsors/VoidX3D"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="sponsor"/></a>
@@ -622,14 +622,11 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 | Project | Description | Stack | Stars |
 |:--------|:------------|:------|:-----:|
 <!-- FEATURED_TABLE_START -->
-| [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | Full-featured anime tracker with AniList/MyAnimeList API integration, smart recs, PWA & glassmorphism UI | Next.js, Supabase, TS | ⭐3 |
-| [**RU Club Website**](https://github.com/VoidX3D/RU_Club_Website) | Official site for Motherland RU Club environmental squad, Pokhara | React, TS, Supabase, Tailwind | ⭐2 |
-| [**RU Admin Site**](https://github.com/VoidX3D/RU_Admin_Site) | React 19 admin panel — manage missions, members, announcements, partners | React 19, TS, Supabase, Vite | ⭐0 |
-| [**PixelPlayer**](https://github.com/VoidX3D/PixelPlayer) | Privacy-first Android music player — offline, lyrics, equalizer, Material 3 | Kotlin, Material 3 | ⭐1 |
-| [**DexDiary**](https://github.com/VoidX3D/DexDiary) | Personal diary/journal app for daily reflections with modern UI | Kotlin, Android | ⭐0 |
-| [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial HiAnime.to REST API — scrape anime data, episodes, streaming links | TypeScript, Node.js | ⭐0 |
-| [**Demo-Repo**](https://github.com/VoidX3D/Demo-Repo) | Interactive clone sites hub — visually appealing UI | JavaScript | ⭐1 |
-| [**vite-react-template**](https://github.com/VoidX3D/vite-react-template) | Modern Vite + React starter with best practices baked in | TS, Vite, React | ⭐1 |
+| [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | A feature-rich anime tracking platform built with Next.js and Supabase, integrating AniList and MyAnimeList APIs with smart recommendations, dark mode, PWA support, and a sleek glassmorphism design. | TypeScript | ⭐3 |
+| [**RU_Club_Website**](https://github.com/VoidX3D/RU_Club_Website) | Official website for Motherland RU Club — a student environmental squad from Pokhara, Nepal. Built with React, TypeScript, Supabase, and Tailwind CSS. | TypeScript | ⭐2 |
+| [**RU_Admin_Site**](https://github.com/VoidX3D/RU_Admin_Site) | React 19 + TypeScript admin panel for RU Club Motherland. Manages missions, announcements, members, stats, partners, and contact submissions via Supabase. Vite + Tailwind CSS. | TypeScript | ⭐0 |
+| [**DexDiary**](https://github.com/VoidX3D/DexDiary) | A personal diary/journal application built with modern web technologies. Track your thoughts, memories, and daily reflections. | Kotlin | ⭐0 |
+| [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial REST API wrapper for HiAnime.to. Scrape anime data, episodes, streaming links, and more. | TypeScript | ⭐0 |
 <!-- FEATURED_TABLE_END -->
 
 </div>
@@ -640,13 +637,10 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 <div align="center">
 <!-- FEATURED_CARDS_START -->
   <a href="https://github.com/VoidX3D/Anime-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Anime-Tracker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anime-Tracker"/></a>
-  <a href="https://github.com/VoidX3D/RU_Club_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Club_Website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU Club Website"/></a>
-  <a href="https://github.com/VoidX3D/RU_Admin_Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Admin_Site&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU Admin Site"/></a>
-  <a href="https://github.com/VoidX3D/PixelPlayer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=PixelPlayer&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="PixelPlayer"/></a>
+  <a href="https://github.com/VoidX3D/RU_Club_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Club_Website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU_Club_Website"/></a>
+  <a href="https://github.com/VoidX3D/RU_Admin_Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Admin_Site&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU_Admin_Site"/></a>
   <a href="https://github.com/VoidX3D/DexDiary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=DexDiary&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DexDiary"/></a>
   <a href="https://github.com/VoidX3D/hianime-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=hianime-api&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="hianime-api"/></a>
-  <a href="https://github.com/VoidX3D/Demo-Repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Demo-Repo&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Demo-Repo"/></a>
-  <a href="https://github.com/VoidX3D/vite-react-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=vite-react-template&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="vite-react-template"/></a>
 <!-- FEATURED_CARDS_END -->
 </div>
 
