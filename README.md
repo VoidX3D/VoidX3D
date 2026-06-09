@@ -624,7 +624,7 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 <!-- FEATURED_TABLE_START -->
 | [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | A feature-rich anime tracking platform built with Next.js and Supabase, integrating AniList and MyAnimeList APIs with smart recommendations, dark mode, PWA support, and a sleek glassmorphism design. | TypeScript | ⭐3 |
 | [**RU_Club_Website**](https://github.com/VoidX3D/RU_Club_Website) | Official website for Motherland RU Club — a student environmental squad from Pokhara, Nepal. Built with React, TypeScript, Supabase, and Tailwind CSS. | TypeScript | ⭐2 |
-| [**RU_Admin_Site**](https://github.com/VoidX3D/RU_Admin_Site) | React 19 + TypeScript admin panel for RU Club Motherland. Manages missions, announcements, members, stats, partners, and contact submissions via Supabase. Vite + Tailwind CSS. | TypeScript | ⭐0 |
+| [**RU_Admin_Site**](https://github.com/VoidX3D/RU_Admin_Site) | React 19 + TypeScript admin panel for RU Club Motherland. Manages missions, announcements, members, stats, partners, and contact submissions via Supabase. Vite + Tailwind CSS. | TypeScript | ⭐1 |
 | [**DexDiary**](https://github.com/VoidX3D/DexDiary) | A personal diary/journal application built with modern web technologies. Track your thoughts, memories, and daily reflections. | Kotlin | ⭐0 |
 | [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial REST API wrapper for HiAnime.to. Scrape anime data, episodes, streaming links, and more. | TypeScript | ⭐0 |
 <!-- FEATURED_TABLE_END -->
