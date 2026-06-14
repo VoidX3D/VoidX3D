@@ -1,7 +1,15 @@
+<!--
+  SEO Metadata for VoidX3D / Sincere Bhattarai
+  - Full Stack Developer & Backend Engineer from Pokhara, Nepal
+  - Building production-ready systems, AI-powered APIs, and open-source tools
+  - Languages: TypeScript, JavaScript, Python, Kotlin, Java, Go, Rust, C++, C#
+  - Frameworks: React, Next.js, Node.js, Express, Spring, Flutter
+  - Focus: Backend Architecture, System Design, AI/ML Integration, Real-time Apps
+-->
 <div align="center">
 
 <!-- BANNER -->
-<img src="./assets/banner.png" alt="VoidX3D Banner" width="100%">
+<img src="./assets/banner.png" alt="VoidX3D Banner — Sincere Bhattarai Full Stack Developer" width="100%">
 
 <br>
 
@@ -241,7 +249,7 @@
 <p>
   <a href="https://github.com/VoidX3D"><img src="https://img.shields.io/badge/Profile_Views-2.8K+-blueviolet?style=for-the-badge&logo=eye&logoColor=white" alt="views"/></a>
   <a href="https://github.com/VoidX3D?tab=followers"><img src="https://img.shields.io/github/followers/VoidX3D?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=blue" alt="followers"/></a>
-  <a href="https://github.com/VoidX3D?tab=repositories"><img src="https://img.shields.io/badge/Repos-23+-orange?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+  <a href="https://github.com/VoidX3D?tab=repositories"><img src="https://img.shields.io/badge/Repos-50+-orange?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
   <a href="https://github.com/VoidX3D"><img src="https://img.shields.io/badge/Focus-Backend_%26_AI-red?style=for-the-badge&logo=robot&logoColor=white" alt="focus"/></a>
   <a href="https://github.com/VoidX3D/VoidX3D"><img src="https://img.shields.io/badge/Status-Shipping_%F0%9F%9A%80-success?style=for-the-badge&logoColor=white" alt="status"/></a>
   <a href="https://github.com/sponsors/VoidX3D"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="sponsor"/></a>
@@ -607,27 +615,26 @@ Live analytics — real-time stats from my GitHub activity.
 <!-- ============================================ -->
 <div align="center">
 
-# 🚀 All Projects
+# 🚀 Complete Project Portfolio
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
 
-Every repository I've built — from AI-powered APIs to interactive games, mobile apps to developer tools.
+Every repository built by **Sincere Bhattarai (VoidX3D)** — from AI-powered APIs to interactive games, mobile apps to developer tools.
 
 </div>
 
-### 🔥 Featured / Latest
+### 🔥 Featured / Production Projects
 
 <div align="center">
 
-| Project | Description | Stack | Stars |
-|:--------|:------------|:------|:-----:|
-<!-- FEATURED_TABLE_START -->
-| [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | A feature-rich anime tracking platform built with Next.js and Supabase, integrating AniList and MyAnimeList APIs with smart recommendations, dark mode, PWA support, and a sleek glassmorphism design. | TypeScript | ⭐3 |
-| [**RU_Club_Website**](https://github.com/VoidX3D/RU_Club_Website) | Official website for Motherland RU Club — a student environmental squad from Pokhara, Nepal. Built with React, TypeScript, Supabase, and Tailwind CSS. | TypeScript | ⭐2 |
-| [**RU_Admin_Site**](https://github.com/VoidX3D/RU_Admin_Site) | React 19 + TypeScript admin panel for RU Club Motherland. Manages missions, announcements, members, stats, partners, and contact submissions via Supabase. Vite + Tailwind CSS. | TypeScript | ⭐1 |
-| [**DexDiary**](https://github.com/VoidX3D/DexDiary) | A personal diary/journal application built with modern web technologies. Track your thoughts, memories, and daily reflections. | Kotlin | ⭐0 |
-| [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial REST API wrapper for HiAnime.to. Scrape anime data, episodes, streaming links, and more. | TypeScript | ⭐0 |
-<!-- FEATURED_TABLE_END -->
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | Feature-rich anime tracking platform with neural recommendations, real-time AniList/MAL sync, PWA support, glassmorphism UI. | Next.js, Supabase, TypeScript |
+| [**RU_Club_Website**](https://github.com/VoidX3D/RU_Club_Website) | Official website for Motherland RU Club — environmental sustainability club in Pokhara, Nepal. | React, TypeScript, Supabase, Tailwind |
+| [**RU_Admin_Site**](https://github.com/VoidX3D/RU_Admin_Site) | Full-featured admin panel managing missions, announcements, members, stats, and contact submissions. | React 19, TypeScript, Supabase |
+| [**voidx3d.github.io**](https://github.com/VoidX3D/voidx3d.github.io) | Personal project hub and developer portfolio showcasing open-source work. | Vite, React, TypeScript |
+| [**Anilist-DB**](https://github.com/VoidX3D/Anilist-DB) | AniList database harvester with real-time socket streaming, protocol modes, and disk sentinel. | Node.js, Socket.io, TypeScript |
+| [**voidx3d-api**](https://github.com/VoidX3D/voidx3d-api) | Proprietary API engine with Express, GraphQL, Redis caching, rate limiting, and helmet security. | Node.js, Express, GraphQL, Redis |
 
 </div>
 
@@ -635,142 +642,138 @@ Every repository I've built — from AI-powered APIs to interactive games, mobil
 
 <!-- PROJECT CARDS -->
 <div align="center">
-<!-- FEATURED_CARDS_START -->
   <a href="https://github.com/VoidX3D/Anime-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Anime-Tracker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anime-Tracker"/></a>
   <a href="https://github.com/VoidX3D/RU_Club_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Club_Website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU_Club_Website"/></a>
   <a href="https://github.com/VoidX3D/RU_Admin_Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Admin_Site&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU_Admin_Site"/></a>
-  <a href="https://github.com/VoidX3D/DexDiary"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=DexDiary&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DexDiary"/></a>
-  <a href="https://github.com/VoidX3D/hianime-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=hianime-api&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="hianime-api"/></a>
-<!-- FEATURED_CARDS_END -->
+  <a href="https://github.com/VoidX3D/voidx3d.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=voidx3d.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="voidx3d.github.io"/></a>
+  <a href="https://github.com/VoidX3D/Anilist-DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Anilist-DB&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anilist-DB"/></a>
+  <a href="https://github.com/VoidX3D/voidx3d-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=voidx3d-api&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="voidx3d-api"/></a>
 </div>
 
 <br>
 
 <details>
-<summary><b>🤖 AI & Backend Projects (6)</b></summary>
+<summary><b>🌐 Web Applications (8)</b></summary>
 <br>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-<!-- AI_BACKEND_TABLE_START -->
-
-<!-- AI_BACKEND_TABLE_END -->
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🎮 Interactive & Game Projects (3)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-<!-- GAME_TABLE_START -->
-| [**chrome-game**](https://github.com/VoidX3D/chrome-game) | A Chrome dinosaur game clone built with JavaScript. Jump over cacti and dodge obstacles in this endless runner. | JavaScript | ⭐0 |
-<!-- GAME_TABLE_END -->
+| [**Backup**](https://github.com/VoidX3D/Backup) | Space Hub — interactive learning platform with 3D visualizations, math tools, and project gallery. | HTML, CSS, JavaScript, GSAP |
+| [**ANIWAVE1**](https://github.com/VoidX3D/ANIWAVE1) | Anime streaming platform with search, filtering, and PWA support. | PHP, MySQL, JavaScript |
+| [**nextjs-project-starter**](https://github.com/VoidX3D/nextjs-project-starter) | Zen Exhibition — Next.js starter template with Framer Motion, MDX, Tailwind CSS, and member showcase. | Next.js, MDX, Tailwind |
+| [**final**](https://github.com/VoidX3D/final) | Anime Roulette — smart weighted randomizer for discovering anime from 13,000+ titles. (Private) | Next.js, shadcn/ui, TypeScript |
+| [**void-archive**](https://github.com/VoidX3D/void-archive) | VoidArchive — digital archive and portfolio with academic and creative work showcase. | Next.js, Supabase, Framer Motion |
+| [**starpack**](https://github.com/VoidX3D/starpack) | Football Card Collection Manager — track 100+ cards, 4 packs, auto-generated sheets. | HTML, CSS, JavaScript |
+| [**miruro**](https://github.com/VoidX3D/miruro) | Miruro no Kuon — anime streaming website with minimal UI and HD streaming. (Fork) | React, Vite |
+| [**api.consumet.org**](https://github.com/VoidX3D/api.consumet.org) | Consumet API deployment — Fastify-based media information proxy. | Fastify, TypeScript |
 
 </div>
 
 </details>
 
 <details>
-<summary><b>🌐 Web Development (6)</b></summary>
+<summary><b>📦 APIs, Libraries & Backend (6)</summary>
 <br>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-<!-- WEB_TABLE_START -->
-| [**Portfolio**](https://github.com/VoidX3D/Portfolio) | A Web-Simulated Ubuntu OS website made using Next.js and React.js libraries  | JavaScript | ⭐1 |
-| [**ubuntu.websimulation.desktop**](https://github.com/VoidX3D/ubuntu.websimulation.desktop) | Ubuntu desktop environment simulation in the browser. Experience Linux desktop UI with working apps and window management. | N/A | ⭐0 |
-<!-- WEB_TABLE_END -->
+| [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial REST API wrapper for HiAnime.to — scrape anime data, episodes, streaming links. | TypeScript, Hono, Redis |
+| [**voidx3d-api**](https://github.com/VoidX3D/voidx3d-api) | Proprietary data engine — GraphQL + REST API with rate limiting, Redis caching, helmet security. | Express, GraphQL, Redis |
+| [**consumet.ts**](https://github.com/VoidX3D/consumet.ts) | High-level media info library for books, movies, anime, manga, and more. (Fork) | TypeScript |
+| [**clcalc**](https://github.com/VoidX3D/clcalc) | Feature-rich command line calculator with history and expression parsing. | JavaScript, Gulp |
 
 </div>
 
 </details>
 
 <details>
-<summary><b>📱 Mobile & Android (3)</b></summary>
+<summary><b>📱 Mobile & Android (2)</b></summary>
 <br>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-<!-- MOBILE_TABLE_START -->
-| [**DexDiary**](https://github.com/VoidX3D/DexDiary) | A personal diary/journal application built with modern web technologies. Track your thoughts, memories, and daily reflections. | Kotlin | ⭐0 |
-<!-- MOBILE_TABLE_END -->
+| [**DexDiary**](https://github.com/VoidX3D/DexDiary) | Privacy-first Android diary/journal app with Material 3 design, mood tracking, and local encryption. | Kotlin, Jetpack Compose |
+| [**PixelPlayer**](https://github.com/VoidX3D/PixelPlayer) | Privacy-first Android music player with Material 3 Expressive, offline playback, equalizer, and casting. (Fork) | Kotlin |
 
 </div>
 
 </details>
 
 <details>
-<summary><b>🎄 Holiday & Fun (6)</b></summary>
+<summary><b>🎄 Holiday & Fun Projects (4)</b></summary>
 <br>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-<!-- HOLIDAY_TABLE_START -->
-| [**Christmas-Card**](https://github.com/VoidX3D/Christmas-Card) | A festive Christmas card web page with animations and holiday greetings. Spread cheer with this digital card. | HTML | ⭐0 |
-| [**Christmas-Card-Belgium**](https://github.com/VoidX3D/Christmas-Card-Belgium) | Christmas card dedicated to Belgium. Holiday greetings with Belgian-themed design elements and animations. | HTML | ⭐0 |
-<!-- HOLIDAY_TABLE_END -->
+| [**christmas**](https://github.com/VoidX3D/christmas) | Three.js interactive 3D Christmas experience with particle effects and animations. (Private) | Three.js, Vite |
+| [**Happy-Bday-maya**](https://github.com/VoidX3D/Happy-Bday-maya) | Personalized birthday card with animations. (Private) | HTML, CSS, JS |
+| [**MyChristmasCard**](https://github.com/VoidX3D/MyChristmasCard) | Holiday greeting card with festive design. (Private) | HTML, CSS |
+| [**Sahanshils-Card-2**](https://github.com/VoidX3D/Sahanshils-Card-2) | Custom greeting card project. (Private) | HTML, CSS |
 
 </div>
 
 </details>
 
 <details>
-<summary><b>🔧 Tools, Starters & Utilities (8)</b></summary>
+<summary><b>🎓 School, Science & Experiments (6)</b></summary>
 <br>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-<!-- TOOL_TABLE_START -->
-| [**Backup**](https://github.com/VoidX3D/Backup) | Utility scripts and configuration backups. Contains exported data, settings, and automation scripts. | HTML | ⭐0 |
-<!-- TOOL_TABLE_END -->
+| [**sciencepresentation**](https://github.com/VoidX3D/sciencepresentation) | Science presentation web app with interactive content. (Private) | HTML, CSS, JS |
+| [**science-study**](https://github.com/VoidX3D/science-study) | Science study aid with flashcards and quizzes. (Private) | HTML, CSS, JS |
+| [**Demo-Repo**](https://github.com/VoidX3D/Demo-Repo) | Interactive clone site hub for demo and testing. (Private) | HTML, CSS, JS |
+| [**DexDiary-legacy**](https://github.com/VoidX3D/DexDiary-legacy) | Legacy version of DexDiary diary app. (Private) | Kotlin |
 
 </div>
 
 </details>
 
 <details>
-<summary><b>📚 Anime & Media (4)</b></summary>
+<summary><b>🛠️ Starters, Templates & Configs (8)</b></summary>
 <br>
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-<!-- ANIME_TABLE_START -->
-| [**Anilist-DB**](https://github.com/VoidX3D/Anilist-DB) | AniList database integration — query and manage anime, manga, and user lists through the AniList GraphQL API. | HTML | ⭐0 |
-<!-- ANIME_TABLE_END -->
+| [**nextjs-project-starter**](https://github.com/VoidX3D/nextjs-project-starter) | Next.js + Tailwind + MDX starter with Framer Motion and member system. | Next.js, Tailwind, MDX |
+| [**vite-react-template**](https://github.com/VoidX3D/vite-react-template) | Vite + React starter template. (Private) | Vite, React |
+| [**myanime**](https://github.com/VoidX3D/myanime) | Anime streaming monorepo with Turborepo. (Private) | Turborepo, React, Node |
+| [**Backup**](https://github.com/VoidX3D/Backup) | Utility scripts, config exports, and automation backups. | HTML, Shell |
 
 </div>
 
 </details>
 
 <details>
-<summary><b>🎓 School, Science & Experiments (4)</b></summary>
+<summary><b>🔀 Forks & Contributions (10+)</b></summary>
 <br>
 
 <div align="center">
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-<!-- SCHOOL_TABLE_START -->
-
-<!-- SCHOOL_TABLE_END -->
+| Project | Upstream | Description |
+|:--------|:---------|:------------|
+| [**ECC**](https://github.com/VoidX3D/ECC) | Agent harness optimization | Skills, instincts, memory system |
+| [**rweb.site**](https://github.com/VoidX3D/rweb.site) | rweb.site | Free subdomain service |
+| [**SAT0RU**](https://github.com/VoidX3D/SAT0RU) | SAT0RU | Real-time cursed technique visualizer |
+| [**spotube**](https://github.com/VoidX3D/spotube) | spotube | Open source music streaming |
+| [**Aurora-OS.js**](https://github.com/VoidX3D/Aurora-OS.js) | Aurora-OS.js | Web OS game framework |
+| [**MoneyPrinterTurbo**](https://github.com/VoidX3D/MoneyPrinterTurbo) | MoneyPrinterTurbo | AI short video generator |
+| [**system_prompts_leaks**](https://github.com/VoidX3D/system_prompts_leaks) | Prompts leaks | Chatbot system prompt collection |
+| [**docs.consumet.org**](https://github.com/VoidX3D/docs.consumet.org) | consumet.org | Consumet API documentation |
+| [**pretext**](https://github.com/VoidX3D/pretext) | pretext | (Link to upstream) |
+| [**dufs**](https://github.com/VoidX3D/dufs) | dufs | Static file server with WebDAV |
 
 </div>
 
