@@ -78,16 +78,24 @@ A web application for tracking anime, exploring titles, and organizing a persona
 [![Open the app](https://img.shields.io/badge/Open_live_application-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://anime-tracker-neon.vercel.app)
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D/Anime-Tracker)
 
-### ✨ [I'm Sorry](https://github.com/VoidX3D/ImSorry)
+### 🌱 [RU Club Website](https://github.com/VoidX3D/RU_Club_Website)
 
-A cinematic interactive web experience built with React, Vite, Canvas, and animated particle effects.
+The official website for Motherland RU Club, a student environmental initiative from Pokhara, Nepal.
 
-[![Experience](https://img.shields.io/badge/View_the_experience-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://iamreallysorry.vercel.app/full-letter)
+**Stack:** React · TypeScript · Supabase · Tailwind CSS
+
+[![View repository](https://img.shields.io/badge/View_repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D/RU_Club_Website)
+
+### 🛠️ [RU Admin Site](https://github.com/VoidX3D/RU_Admin_Site)
+
+A management dashboard for the RU Club platform, covering missions, announcements, members, statistics, partners, and contact submissions.
+
+**Stack:** React 19 · TypeScript · Vite · Tailwind CSS · Supabase
+
+[![View repository](https://img.shields.io/badge/View_repository-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D/RU_Admin_Site)
 
 ## More projects
 
-- 🌱 [RU Club Website](https://github.com/VoidX3D/RU_Club_Website) — website for a student environmental initiative.
-- 🛠️ [RU Admin Site](https://github.com/VoidX3D/RU_Admin_Site) — administrative dashboard using React, TypeScript, and Supabase.
 - 🧪 [Portfolio](https://voidx3d.vercel.app) — personal project hub and developer portfolio.
 - 📚 **Digital Library** — a previously developed school-community library project; current maintenance status is to be confirmed.
 
