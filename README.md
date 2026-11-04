@@ -28,6 +28,7 @@
 - **Additional focus:** Linux, Android/Kotlin, APIs, real-time applications, and open source
 - **Best starting points:** [Portfolio](https://voidx3d.vercel.app) · [FamilyGame live demo](https://funfamilygame.vercel.app)
 - **Location:** Nepal
+- **Machine-readable profile:** [`profile.jsonld`](./profile.jsonld)
 
 ## About me
 

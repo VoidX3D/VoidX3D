@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://github.com/VoidX3D#person",
+  "name": "Sincere Bhattarai",
+  "alternateName": "VoidX3D",
+  "description": "Sincere Bhattarai, known online as VoidX3D, is a self-taught full-stack developer from Nepal who builds web applications, backend APIs, Android projects, and practical AI automation tools.",
+  "url": "https://github.com/VoidX3D",
+  "image": "https://github.com/VoidX3D.png",
+  "sameAs": [
+    "https://github.com/VoidX3D",
+    "https://voidx3d.vercel.app"
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Nepal"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Full-Stack Developer",
+    "description": "Builds full-stack web applications, backend APIs, Android projects, and practical AI automation tools."
+  },
+  "knowsAbout": [
+    "Full-stack web development",
+    "AI automation",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Python",
+    "Supabase",
+    "Linux",
+    "Android development",
+    "Kotlin",
+    "REST APIs",
+    "Real-time applications",
+    "Open-source software"
+  ],
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "name": "VoidX3D GitHub profile",
+    "url": "https://github.com/VoidX3D/VoidX3D"
+  },
+  "hasPart": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "FamilyGame",
+      "description": "A browser-based multiplayer experience with private rooms, multiple game modes, room management, player coordination, host controls, and server-managed game state.",
+      "applicationCategory": "GameApplication",
+      "url": "https://github.com/VoidX3D/FamilyGame",
+      "downloadUrl": "https://funfamilygame.vercel.app",
+      "programmingLanguage": [
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "Socket.IO"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Anime Tracker",
+      "description": "A web application for tracking anime, exploring titles, and organizing a personal anime list.",
+      "applicationCategory": "WebApplication",
+      "url": "https://github.com/VoidX3D/Anime-Tracker",
+      "sameAs": "https://anime-tracker-neon.vercel.app",
+      "programmingLanguage": [
+        "TypeScript",
+        "Next.js",
+        "Supabase"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "name": "RU Club Website",
+      "description": "The official website for Motherland RU Club, a student environmental initiative from Pokhara, Nepal.",
+      "url": "https://github.com/VoidX3D/RU_Club_Website",
+      "programmingLanguage": [
+        "TypeScript",
+        "React",
+        "Supabase",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "RU Admin Site",
+      "description": "A management dashboard for the RU Club platform covering missions, announcements, members, statistics, partners, and contact submissions.",
+      "applicationCategory": "BusinessApplication",
+      "url": "https://github.com/VoidX3D/RU_Admin_Site",
+      "programmingLanguage": [
+        "TypeScript",
+        "React",
+        "Vite",
+        "Supabase"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Pixel Player contribution",
+      "description": "Open-source Android music player project to which Sincere Bhattarai contributed, including library initialization performance work and interface-related improvements.",
+      "url": "https://github.com/PixelPlayerHQ/PixelPlayer",
+      "sameAs": "https://github.com/PixelPlayerHQ/PixelPlayer/pull/2497",
+      "programmingLanguage": [
+        "Kotlin",
+        "Jetpack Compose"
+      ]
+    }
+  ]
+}
