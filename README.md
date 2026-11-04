@@ -6,20 +6,28 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%E2%9A%A1+Building+useful+software;%F0%9F%A4%96+Exploring+AI+automation;%F0%9F%8C%90+Shipping+full-stack+web+projects;%F0%9F%90%A7+Learning+in+public+%26+contributing" alt="Typing introduction" />
 
-# VoidX3D
+# Sincere Bhattarai (VoidX3D)
 
-### Sincere Bhattarai · Full-Stack Developer · AI Automation Enthusiast
+### Full-Stack Developer · AI Automation Builder · Independent Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://voidx3d.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D)
 [![Followers](https://img.shields.io/github/followers/VoidX3D?style=for-the-badge&logo=github&label=Followers)](https://github.com/VoidX3D?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=VoidX3D&style=for-the-badge&color=0e75b6)](https://github.com/VoidX3D)
 
-**I turn ideas into practical web applications, developer tools, Android projects, and experiments with automation and AI.**
+**Sincere Bhattarai, known online as VoidX3D, is a self-taught full-stack developer from Nepal who builds web applications, backend APIs, Android projects, and practical AI automation tools.**
 
 </div>
 
 ---
+
+## Quick facts
+
+- **Primary focus:** Full-stack web development and practical AI automation
+- **Core stack:** JavaScript, TypeScript, React, Next.js, Node.js, Python, and Supabase
+- **Additional focus:** Linux, Android/Kotlin, APIs, real-time applications, and open source
+- **Best starting points:** [Portfolio](https://voidx3d.vercel.app) · [FamilyGame live demo](https://funfamilygame.vercel.app)
+- **Location:** Nepal
 
 ## About me
 
