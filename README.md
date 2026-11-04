@@ -1,1232 +1,190 @@
-<!--
-  VoidX3D | Sincere Bhattarai
-  Student software developer from Pokhara, Nepal.
-  Focus: JavaScript, TypeScript, React, Node.js, Kotlin, Python, Linux,
-  full-stack web development, Android apps, APIs, automation, and AI tools.
--->
-
 <div align="center">
 
-<img src="./assets/banner.png" alt="VoidX3D — Sincere Bhattarai, student software developer from Pokhara, Nepal" width="100%">
+<img src="./assets/banner.png" alt="VoidX3D — Sincere Bhattarai, full-stack developer and AI automation enthusiast" width="100%" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%E2%9A%A1+Building+useful+software;%F0%9F%A4%96+Exploring+AI+automation;%F0%9F%8C%90+Shipping+full-stack+web+projects;%F0%9F%90%A7+Learning+in+public+%26+contributing" alt="Typing introduction" />
 
 # VoidX3D
 
-**Sincere Bhattarai · Student Developer · Pokhara, Nepal 🇳🇵**
+### Sincere Bhattarai · Full-Stack Developer · AI Automation Enthusiast
 
-I build web applications, developer tools, Android projects, APIs, and experiments with automation and AI.
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://voidx3d.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D)
+[![Followers](https://img.shields.io/github/followers/VoidX3D?style=for-the-badge&logo=github&label=Followers)](https://github.com/VoidX3D?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=VoidX3D&style=for-the-badge&color=0e75b6)](https://github.com/VoidX3D)
 
-[Portfolio](https://voidx3d.netlify.app) · [GitHub Repositories](https://github.com/VoidX3D?tab=repositories) · [X](https://x.com/VortexVoidX3D) · [Instagram](https://www.instagram.com/sincerebhattarai/)
-
-![Profile views](https://komarev.com/ghpvc/?username=VoidX3D&style=flat&color=555555)
-![GitHub followers](https://img.shields.io/github/followers/VoidX3D?style=flat&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/VoidX3D?style=flat&label=Stars)
-
-</div>
-
----
-
-## About
-
-I'm **Sincere Bhattarai**, known online as **VoidX3D** — a student and self-directed developer based in **Pokhara, Gandaki, Nepal**. I enjoy taking ideas from a rough concept to a working application, learning by building, and improving projects through real use.
-
-My interests include **full-stack web development, JavaScript and TypeScript, backend APIs, Android development, Linux, open-source software, automation, and AI-powered tools**. I care about practical software, maintainable code, privacy-conscious design, and interfaces that feel intentional rather than overloaded.
-
-- **Birthday:** November 6 · Kartik 20
-- **Based in:** Pokhara, Nepal (NPT, UTC+05:45)
-- **GitHub:** [@VoidX3D](https://github.com/VoidX3D)
-- **Main focus:** Building, experimenting, contributing, and learning
-
-## What I Build
-
-- **Web apps:** Responsive applications, dashboards, PWAs, and interactive experiences.
-- **Backend systems:** APIs, authentication, databases, real-time features, and application architecture.
-- **Android apps:** Kotlin, Jetpack Compose, and Material Design.
-- **Automation and AI:** Developer workflows, AI-agent concepts, and tools that reduce repetitive work.
-- **Linux and open source:** Working in Linux-based development environments and exploring community-built software.
-
-## Featured Projects
-
-### [FamilyGame](https://github.com/VoidX3D/FamilyGame)
-A browser-based multiplayer game project built around private rooms and games that people can play together. The project has included a working backend and a hosted frontend.
-
-**Topics:** JavaScript, multiplayer games, web apps, real-time interaction, backend development.
-
-### [Pixel Player](https://github.com/theveloperpixel/PixelPlayer)
-I contributed to Pixel Player, an Android music player built with Kotlin and Jetpack Compose. Seeing an open-source project progress toward a Play Store release is one of the journeys that makes contributing to software rewarding.
-
-**Topics:** Android development, Kotlin, Jetpack Compose, Material Design, open source.
-
-### [Anime Tracker](https://github.com/VoidX3D/Anime-Tracker)
-An anime tracking web application built around anime discovery and list management, with AniList/MyAnimeList-related integrations and a modern web interface.
-
-**Topics:** TypeScript, Next.js, Supabase, APIs, anime database, progressive web apps.
-
-### [RU Club Website](https://github.com/VoidX3D/RU_Club_Website)
-A website for the Motherland RU Club, a student environmental initiative in Pokhara, Nepal.
-
-**Topics:** React, TypeScript, Supabase, Tailwind CSS, community projects, environmental awareness.
-
-### [VoidX3D Portfolio](https://voidx3d.netlify.app)
-My personal project hub for experiments, applications, and work under the VoidX3D identity.
-
-### [I'm Sorry](https://github.com/VoidX3D/ImSorry)
-A cinematic, interactive web experience built with React, Vite, and canvas-based visual effects.
-
-**Topics:** React, Vite, JavaScript, animation, interactive web design.
-
-> Project status and technologies can change as repositories evolve. Visit each repository for its current code, documentation, and license.
-
-## Technology I Work With
-
-**Languages**
-- JavaScript and TypeScript
-- Python
-- Kotlin
-- HTML and CSS
-- Bash and shell scripting
-
-**Web and application development**
-- React, Vite, and Next.js
-- Node.js and REST APIs
-- Tailwind CSS
-- Progressive Web Apps (PWAs)
-
-**Data and infrastructure**
-- PostgreSQL and Supabase
-- Git and GitHub
-- Vercel and Cloudflare
-- Linux and terminal-based workflows
-
-**Mobile**
-- Android
-- Kotlin
-- Jetpack Compose
-- Material Design
-
-I explore additional tools when a project calls for them; this list represents my main areas of interest rather than a claim of equal expertise in every technology.
-
-## Currently Exploring
-
-- Building more reliable full-stack applications
-- Backend architecture, APIs, and real-time systems
-- AI agents and practical developer automation
-- Privacy-conscious applications and self-hosting
-- Better Linux development workflows
-- Open-source contribution and project maintenance
-
-## How I Like to Build
-
-- Start with a real problem and a clear scope.
-- Prefer maintainable solutions over unnecessary complexity.
-- Keep interfaces focused, accessible, and responsive.
-- Learn by building, testing, and iterating.
-- Be honest about what's finished, experimental, or still planned.
-
-## Find Me Online
-
-- **GitHub:** [github.com/VoidX3D](https://github.com/VoidX3D)
-- **Portfolio:** [voidx3d.netlify.app](https://voidx3d.netlify.app)
-- **X:** [@VortexVoidX3D](https://x.com/VortexVoidX3D)
-- **Instagram:** [@sincerebhattarai](https://www.instagram.com/sincerebhattarai/)
-
-For collaboration, open-source contributions, technical discussion, or project feedback, GitHub is a good place to reach me.
-
----
-
-<div align="center">
-
-*Build with curiosity. Keep it useful. Keep improving.*
-
-**VoidX3D · Sincere Bhattarai · Pokhara, Nepal**
-
-</div>
-, -apple-system, Arial, sans-serif" filter="url(#titleGlow)" letter-spacing="3">
-    VoidX3D
-    <animate attributeName="opacity" values="1;0.85;1" dur="3s" repeatCount="indefinite"/>
-  </text>
-
-  <!-- Subtitle with gradient -->
-  <text x="500" y="175" text-anchor="middle" fill="#8b949e" font-size="17" font-family="'Courier New', monospace" letter-spacing="5">
-    <tspan fill="#00D9FF" font-weight="bold">FULL STACK</tspan>
-    <tspan fill="#8b949e"> DEVELOPER </tspan>
-    <tspan fill="#8A2BE2">✦</tspan>
-    <tspan fill="#8b949e"> BACKEND ENGINEER </tspan>
-    <tspan fill="#FF6B6B">✦</tspan>
-    <tspan fill="#8b949e"> AI BUILDER</tspan>
-  </text>
-
-  <!-- Tech stack marquee line -->
-  <g opacity="0.4">
-    <text x="500" y="200" text-anchor="middle" fill="#484f58" font-size="11" font-family="'Courier New', monospace" letter-spacing="8">
-      TS • JS • PY • GO • RS • KT • Java • C++ • C# • Swift
-    </text>
-  </g>
-
-  <!-- Tagline -->
-  <text x="500" y="260" text-anchor="middle" fill="#484f58" font-size="13" font-family="'Courier New', monospace" letter-spacing="2">
-    Building production-ready systems • Creating AI-powered tools • Shipping what matters
-  </text>
-
-  <!-- Location / meta pill -->
-  <g transform="translate(340, 290)">
-    <rect x="0" y="0" width="320" height="34" rx="17" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-    <text x="160" y="22" text-anchor="middle" fill="#8b949e" font-size="13" font-family="'Courier New', monospace">
-      🇳🇵 Pokhara, Nepal  •  17 y/o  •  3+ Years  •  Self-Taught
-    </text>
-  </g>
-</svg>
-
-<br>
-
-<!-- ============================================ -->
-<!--           ANIMATED TYPING SVG                -->
-<!-- ============================================ -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%E2%9A%A1+Building+Production-Ready+Systems;%F0%9F%8E%AE+Creating+AI-Powered+Tools+%26+APIs;%F0%9F%94%A5+Shipping+Real+Projects+That+Matter;%E2%9A%94%EF%B8%8F+Bleach+Fan+%26+Code+Warrior;%F0%9F%9A%80+Self-Taught+Developer+%7C+Always+Learning;%F0%9F%92%BB+Full+Stack+%7C+Backend+%7C+AI+%7C+Mobile+%7C+DevOps" alt="Typing SVG" />
-</p>
-
-<!-- ============================================ -->
-<!--           BADGES BAR                        -->
-<!-- ============================================ -->
-<p>
-  <a href="https://github.com/VoidX3D"><img src="https://img.shields.io/badge/Profile_Views-2.8K+-blueviolet?style=for-the-badge&logo=eye&logoColor=white" alt="views"/></a>
-  <a href="https://github.com/VoidX3D?tab=followers"><img src="https://img.shields.io/github/followers/VoidX3D?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=blue" alt="followers"/></a>
-  <a href="https://github.com/VoidX3D?tab=repositories"><img src="https://img.shields.io/badge/Repos-30+-orange?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
-  <a href="https://github.com/VoidX3D"><img src="https://img.shields.io/badge/Focus-Backend_%26_AI-red?style=for-the-badge&logo=robot&logoColor=white" alt="focus"/></a>
-  <a href="https://github.com/VoidX3D/VoidX3D"><img src="https://img.shields.io/badge/Status-Shipping_%F0%9F%9A%80-success?style=for-the-badge&logoColor=white" alt="status"/></a>
-  <a href="https://github.com/sponsors/VoidX3D"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="sponsor"/></a>
-</p>
-
-<!-- VISITOR COUNTER -->
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=voidx3d&icon=5&color=6" alt="Visit Count"/>
-  <img src="https://img.shields.io/github/stars/VoidX3D?style=for-the-badge&logo=github&logoColor=white&color=yellow" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/badge/Made%20in-Nepal-DF2A2A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEoSURBVDiNpZMxTsNAEEX/rNeOAwUlHVdA4gJcAokLUNDRcAQkLkCBaOgouQIVFQ0XQKJwA0oqCqSA+7HBWjuOHWKTkWb1dj6zfwT/gV4+mPefBQBmZkVVx4h8KOYLAkBE3kppV1VHjS4i2yLSV9UjACLyDgBmdo+IewD4UtVrM3tzzpcAgIiIiNwyM1VtmNkbMx8BwDOAzwhCBHAXQggAcGZmL875awBAVS+ZOWMMAHDOGQDAzJ+Z+YmZ7wEgxngCAAhCi8xs/xeYOTLnWgCAEAIAYIyxiDHeOOdORKQTY+wCQOsPIITAInJsZksAICKDlNJpSqkfY5yKyBQAJkJ/CyEEETEHYGZ2oao3InIIAPnXcyJyy8xHAFBE2hhjJ6W0BwBnZvZ3Ii4AH2b20Gq1vgHyNFk+bSdMxQAAAABJRU5ErkJggg==&logoColor=white" alt="Made in Nepal"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+**I turn ideas into practical web applications, developer tools, Android projects, and experiments with automation and AI.**
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!--              ABOUT ME                        -->
-<!-- ============================================ -->
-<div align="center">
+## About me
 
-# ⚡ About Me
+I'm **Sincere Bhattarai**, known online as **VoidX3D** — a self-taught developer from Nepal who enjoys taking ideas from rough concepts to working software.
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
+My main interests are full-stack web development, backend APIs, Linux, open-source collaboration, Android development, and AI-powered automation. I care about useful features, focused interfaces, maintainable systems, and being honest about what is shipped, experimental, or still planned.
 
-</div>
-
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-
-**Hey! I'm VoidX3D** — a 17-year-old **Full Stack Developer & Backend Engineer** from Pokhara, Nepal 🇳🇵. With 3+ years of self-taught experience, I'm on a mission to build production-ready systems, engineer AI-powered APIs, and ship real projects that matter.
-
-My coding journey started at **age 12 with HTML/CSS**, building my first calculator. Since then, it's been a non-stop grind across 14+ languages, countless frameworks, and a growing collection of shipped projects — from Android music players to anime tracking platforms, admin dashboards to streaming APIs.
-
-**My philosophy:** "*Code with passion, debug with patience, deploy with pride!*" Every bug is a lesson, every project is progress. Just like Ichigo's journey in Bleach — always pushing limits, never giving up. ⚔️
-
-```typescript
+```ts
 const voidx3d = {
-  name: "VoidX3D",
-  role: "Full Stack Developer & Backend Engineer",
-  location: "Pokhara, Nepal 🇳🇵",
-  pronouns: "he/him",
-  age: 17,
-  experience: "3+ years self-taught",
-  code: ["TypeScript", "JavaScript", "Python", "Kotlin", "Java", "Go", "Rust"],
-  architect: ["Microservices", "Event-Driven", "RESTful APIs", "System Design"],
-  tools: ["Node.js", "React", "Next.js", "Docker", "K8s", "Supabase", "Redis"],
-  ai_ml: ["TensorFlow", "PyTorch", "OpenCV", "LangChain", "OpenAI"],
-  philosophy: {
-    code: "Clean architecture > Quick hacks",
-    learning: "Build projects, not just tutorials",
-    shipping: "Done is better than perfect, but iterate toward excellence",
-    mindset: "Every bug is a lesson, every project is progress"
-  },
-  motivation: "Code with passion, debug with patience, deploy with pride! 🚀"
+  focus: ["Full-stack web development", "AI automation", "Linux"],
+  currentlyBuilding: "Useful software and better developer workflows",
+  mindset: "Build → experiment → learn → improve",
 };
 ```
 
-    </td>
-    <td width="40%" valign="top">
+## What I build
 
-### 📋 Personal
+| Area | What I enjoy building |
+| --- | --- |
+| 🌐 **Web applications** | Full-stack products, dashboards, PWAs, and interactive experiences |
+| ⚙️ **Backend systems** | APIs, databases, real-time features, and practical application architecture |
+| 📱 **Android apps** | Kotlin-based applications, music players, and focused mobile experiences |
+| 🤖 **AI automation** | Tool-using agents, developer workflows, and experiments that reduce repetitive work |
+| 🐧 **Linux & open source** | Linux-based development, self-hosting ideas, and community software |
 
-| Attribute | Detail |
-|-----------|--------|
-| **Name** | VoidX3D |
-| **Role** | Full Stack Dev & Backend Engineer |
-| **Location** | Pokhara, Gandaki, Nepal 🇳🇵 |
-| **Education** | @ Motherland Secondary School |
-| **Age** | 17 |
-| **Experience** | 3+ Years Self-Taught |
-| **Time Zone** | UTC+5:45 (yes, really!) |
+## Featured projects
 
-### 🎯 Current Focus
+### 🎮 [FamilyGame](https://github.com/VoidX3D/FamilyGame)
 
-- Backend Architecture & System Design
-- AI/ML Integration into Production Apps
-- Real-time Applications & APIs
-- Performance Optimization
-- Open Source Contributions
+A browser-based multiplayer experience designed for friends and family to play together in private rooms.
 
-### 📚 Learning
+- Multiple game modes and configurable game content
+- Private rooms, room management, and player coordination
+- Host controls and server-managed game state
+- Mobile and desktop browser support
 
-- Microservices & Event-Driven Architecture
-- Cloud Native (K8s, Serverless)
-- Machine Learning Ops
-- Blockchain & Web3
-- Game Engine Development
+**Stack:** JavaScript · Node.js · Express · Socket.IO · HTML · CSS
 
-### ⚔️ Interests
+[![Live demo](https://img.shields.io/badge/Play_the_live_demo-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://funfamilygame.vercel.app)
+[![Source code](https://img.shields.io/badge/View_source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D/FamilyGame)
 
-- Watching Anime (Bleach is peak!)
-- Building Side Projects
-- Gaming & Game Dev
-- Writing Technical Blogs
-- Long walks with Himalayan views 🏔️
+> A working deployed version exists, with further development and improvements planned.
 
-### 🎵 Coding Vibe
+### 🎵 [Pixel Player](https://github.com/PixelPlayerHQ/PixelPlayer)
 
-- **Music:** Lo-fi + Anime OSTs
-- **Time:** 10 PM – 3 AM 🦉
-- **Fuel:** Coffee ☕ (essential)
-- **Theme:** Dark mode only 💀
+An open-source Android music player built with Kotlin and Jetpack Compose. I have contributed to library initialization performance and improvements across AI-related settings and interface behavior.
 
-    </td>
-  </tr>
-</table>
+[![Contribution example](https://img.shields.io/badge/See_my_contribution-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PixelPlayerHQ/PixelPlayer/pull/2497)
 
-<details>
-<summary><b>🎯 2026 Goals & Roadmap</b></summary>
-<br>
+### 🍿 [Anime Tracker](https://github.com/VoidX3D/Anime-Tracker)
+
+A web application for tracking anime, exploring titles, and organizing a personal anime list.
+
+**Stack:** Next.js · Supabase · AniList API · MyAnimeList API · PWA
+
+[![Open the app](https://img.shields.io/badge/Open_live_application-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://anime-tracker-neon.vercel.app)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VoidX3D/Anime-Tracker)
+
+### ✨ [I'm Sorry](https://github.com/VoidX3D/ImSorry)
+
+A cinematic interactive web experience built with React, Vite, Canvas, and animated particle effects.
+
+[![Experience](https://img.shields.io/badge/View_the_experience-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://iamreallysorry.vercel.app/full-letter)
+
+## More projects
+
+- 🌱 [RU Club Website](https://github.com/VoidX3D/RU_Club_Website) — website for a student environmental initiative.
+- 🛠️ [RU Admin Site](https://github.com/VoidX3D/RU_Admin_Site) — administrative dashboard using React, TypeScript, and Supabase.
+- 🧪 [Portfolio](https://voidx3d.vercel.app) — personal project hub and developer portfolio.
+- 📚 **Digital Library** — a previously developed school-community library project; current maintenance status is to be confirmed.
+
+## Technology
 
 <div align="center">
 
-| Quarter | Focus | Key Objectives |
-|:-------:|:------|:---------------|
-| **Q1** 🎄 | **Foundation** | Master TypeScript, System Design patterns, Microservices architecture |
-| **Q2** ❄️ | **Growth** | Cloud cert prep, ML deployment pipelines, CI/CD mastery |
-| **Q3** 🎁 | **Execution** | Launch AI SaaS platform, 100+ OSS contributions, Tech blog series |
-| **Q4** ⛄ | **Mastery** | Scale existing projects, WebAssembly deep-dive, Game engine development |
+### Languages
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/icons/javascript.svg" width="42" height="42" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="./assets/icons/typescript.svg" width="42" height="42" alt="TypeScript" /></a>
+<a href="https://www.python.org/"><img src="./assets/icons/python.svg" width="42" height="42" alt="Python" /></a>
+<a href="https://kotlinlang.org/"><img src="./assets/icons/kotlin.svg" width="42" height="42" alt="Kotlin" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/icons/html5.svg" width="42" height="42" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/icons/css3.svg" width="42" height="42" alt="CSS" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="./assets/icons/bash.svg" width="42" height="42" alt="Bash" /></a>
+
+### Frontend and backend
+
+<a href="https://react.dev/"><img src="./assets/icons/react.svg" width="42" height="42" alt="React" /></a>
+<a href="https://nextjs.org/"><img src="./assets/icons/nextjs.svg" width="42" height="42" alt="Next.js" /></a>
+<a href="https://nodejs.org/"><img src="./assets/icons/nodejs.svg" width="42" height="42" alt="Node.js" /></a>
+<a href="https://expressjs.com/"><img src="./assets/icons/express.svg" width="42" height="42" alt="Express" /></a>
+<a href="https://socket.io/"><img src="./assets/icons/socketio.svg" width="42" height="42" alt="Socket.IO" /></a>
+<a href="https://supabase.com/"><img src="./assets/icons/supabase.svg" width="42" height="42" alt="Supabase" /></a>
+<a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.svg" width="42" height="42" alt="PostgreSQL" /></a>
+
+### Tools and infrastructure
+
+<a href="https://www.linux.org/"><img src="./assets/icons/linux.svg" width="42" height="42" alt="Linux" /></a>
+<a href="https://git-scm.com/"><img src="./assets/icons/git.svg" width="42" height="42" alt="Git" /></a>
+<a href="https://github.com/"><img src="./assets/icons/github.svg" width="42" height="42" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/"><img src="./assets/icons/vscode.svg" width="42" height="42" alt="VS Code" /></a>
 
 </div>
 
-</details>
+> This list reflects my main working areas and interests, not equal proficiency in every technology.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+## Currently exploring
 
----
+- AI agents and practical developer automation
+- Reliable backend architecture, APIs, and real-time systems
+- Linux development workflows, self-hosting, and developer tooling
+- Open-source contribution and long-term project maintenance
+- Distributed and multi-device computing
+- Maintainable software with practical, intentional interfaces
 
-<!-- ============================================ -->
-<!--              TECH STACK                      -->
-<!-- ============================================ -->
-<div align="center">
+## Roadmap
 
-# 🛠️ Tech Stack
+These are longer-term concepts, not shipped products:
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
+- **VoidDrive** — a planned personal file platform focused on organization, sharing, permissions, and reliable data handling.
+- **VoidCloud** — a planned part of the wider VoidX3D ecosystem for connected services and infrastructure.
+- **VoidStreamz** — a future project concept whose final scope is still being established.
+- **VoidApps** — an umbrella concept for applications and tools developed under the VoidX3D identity.
+- **Zen** — an experimental AI-system concept exploring hosted models, tool use, automation, and multi-device coordination.
 
-My complete arsenal — all **57 icons hosted locally** in this repo.
+Security, privacy, and reliability are design goals for future projects and should not be interpreted as implemented guarantees until publicly demonstrated and verified.
 
-</div>
-
-### 💻 Programming Languages
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/javascript.svg" width="48" height="48" alt="JS"/><br><b>JavaScript</b></td>
-      <td align="center" width="96"><img src="assets/icons/typescript.svg" width="48" height="48" alt="TS"/><br><b>TypeScript</b></td>
-      <td align="center" width="96"><img src="assets/icons/python.svg" width="48" height="48" alt="Python"/><br><b>Python</b></td>
-      <td align="center" width="96"><img src="assets/icons/java.svg" width="48" height="48" alt="Java"/><br><b>Java</b></td>
-      <td align="center" width="96"><img src="assets/icons/cplusplus.svg" width="48" height="48" alt="C++"/><br><b>C++</b></td>
-      <td align="center" width="96"><img src="assets/icons/csharp.svg" width="48" height="48" alt="C#"/><br><b>C#</b></td>
-      <td align="center" width="96"><img src="assets/icons/go.svg" width="48" height="48" alt="Go"/><br><b>Go</b></td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/kotlin.svg" width="48" height="48" alt="Kotlin"/><br><b>Kotlin</b></td>
-      <td align="center" width="96"><img src="assets/icons/swift.svg" width="48" height="48" alt="Swift"/><br><b>Swift</b></td>
-      <td align="center" width="96"><img src="assets/icons/php.svg" width="48" height="48" alt="PHP"/><br><b>PHP</b></td>
-      <td align="center" width="96"><img src="assets/icons/rust.svg" width="48" height="48" alt="Rust"/><br><b>Rust</b></td>
-      <td align="center" width="96"><img src="assets/icons/html5.svg" width="48" height="48" alt="HTML"/><br><b>HTML5</b></td>
-      <td align="center" width="96"><img src="assets/icons/css3.svg" width="48" height="48" alt="CSS"/><br><b>CSS3</b></td>
-      <td align="center" width="96"><img src="assets/icons/bash.svg" width="48" height="48" alt="Bash"/><br><b>Bash</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🎨 Frontend
+## GitHub activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/react.svg" width="48" height="48" alt="React"/><br><b>React</b></td>
-      <td align="center" width="96"><img src="assets/icons/nextjs.svg" width="48" height="48" alt="Next"/><br><b>Next.js</b></td>
-      <td align="center" width="96"><img src="assets/icons/vuejs.svg" width="48" height="48" alt="Vue"/><br><b>Vue.js</b></td>
-      <td align="center" width="96"><img src="assets/icons/svelte.svg" width="48" height="48" alt="Svelte"/><br><b>Svelte</b></td>
-      <td align="center" width="96"><img src="assets/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind"/><br><b>Tailwind</b></td>
-      <td align="center" width="96"><img src="assets/icons/bootstrap.svg" width="48" height="48" alt="Bootstrap"/><br><b>Bootstrap</b></td>
-      <td align="center" width="96"><img src="assets/icons/sass.svg" width="48" height="48" alt="Sass"/><br><b>Sass</b></td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/materialui.svg" width="48" height="48" alt="MUI"/><br><b>MUI</b></td>
-    </tr>
-  </table>
-</div>
 
-### ⚙️ Backend & API
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/nodejs.svg" width="48" height="48" alt="Node"/><br><b>Node.js</b></td>
-      <td align="center" width="96"><img src="assets/icons/express.svg" width="48" height="48" alt="Express"/><br><b>Express</b></td>
-      <td align="center" width="96"><img src="assets/icons/nestjs.svg" width="48" height="48" alt="NestJS"/><br><b>NestJS</b></td>
-      <td align="center" width="96"><img src="assets/icons/fastapi.svg" width="48" height="48" alt="FastAPI"/><br><b>FastAPI</b></td>
-      <td align="center" width="96"><img src="assets/icons/flask.svg" width="48" height="48" alt="Flask"/><br><b>Flask</b></td>
-      <td align="center" width="96"><img src="assets/icons/django.svg" width="48" height="48" alt="Django"/><br><b>Django</b></td>
-      <td align="center" width="96"><img src="assets/icons/spring.svg" width="48" height="48" alt="Spring"/><br><b>Spring</b></td>
-    </tr>
-  </table>
-</div>
-
-### 📱 Mobile & Cross-Platform
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/react.svg" width="48" height="48" alt="RN"/><br><b>React Native</b></td>
-      <td align="center" width="96"><img src="assets/icons/flutter.svg" width="48" height="48" alt="Flutter"/><br><b>Flutter</b></td>
-      <td align="center" width="96"><img src="assets/icons/kotlin.svg" width="48" height="48" alt="Kotlin"/><br><b>Kotlin</b></td>
-      <td align="center" width="96"><img src="assets/icons/swift.svg" width="48" height="48" alt="Swift"/><br><b>Swift</b></td>
-      <td align="center" width="96"><img src="assets/icons/android.svg" width="48" height="48" alt="Android"/><br><b>Android</b></td>
-      <td align="center" width="96"><img src="assets/icons/apple.svg" width="48" height="48" alt="iOS"/><br><b>iOS</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🗄️ Databases & Storage
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/mongodb.svg" width="48" height="48" alt="Mongo"/><br><b>MongoDB</b></td>
-      <td align="center" width="96"><img src="assets/icons/postgresql.svg" width="48" height="48" alt="Postgres"/><br><b>PostgreSQL</b></td>
-      <td align="center" width="96"><img src="assets/icons/mysql.svg" width="48" height="48" alt="MySQL"/><br><b>MySQL</b></td>
-      <td align="center" width="96"><img src="assets/icons/redis.svg" width="48" height="48" alt="Redis"/><br><b>Redis</b></td>
-      <td align="center" width="96"><img src="assets/icons/firebase.svg" width="48" height="48" alt="Firebase"/><br><b>Firebase</b></td>
-      <td align="center" width="96"><img src="assets/icons/supabase.svg" width="48" height="48" alt="Supabase"/><br><b>Supabase</b></td>
-      <td align="center" width="96"><img src="assets/icons/sqlite.svg" width="48" height="48" alt="SQLite"/><br><b>SQLite</b></td>
-    </tr>
-  </table>
-</div>
-
-### ☁️ DevOps, Cloud & CI/CD
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/docker.svg" width="48" height="48" alt="Docker"/><br><b>Docker</b></td>
-      <td align="center" width="96"><img src="assets/icons/kubernetes.svg" width="48" height="48" alt="K8s"/><br><b>Kubernetes</b></td>
-      <td align="center" width="96"><img src="assets/icons/aws.svg" width="48" height="48" alt="AWS"/><br><b>AWS</b></td>
-      <td align="center" width="96"><img src="assets/icons/azure.svg" width="48" height="48" alt="Azure"/><br><b>Azure</b></td>
-      <td align="center" width="96"><img src="assets/icons/gcp.svg" width="48" height="48" alt="GCP"/><br><b>GCP</b></td>
-      <td align="center" width="96"><img src="assets/icons/jenkins.svg" width="48" height="48" alt="Jenkins"/><br><b>Jenkins</b></td>
-      <td align="center" width="96"><img src="assets/icons/nginx.svg" width="48" height="48" alt="Nginx"/><br><b>Nginx</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🤖 AI, ML & Data Science
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/tensorflow.svg" width="48" height="48" alt="TF"/><br><b>TensorFlow</b></td>
-      <td align="center" width="96"><img src="assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch"/><br><b>PyTorch</b></td>
-      <td align="center" width="96"><img src="assets/icons/scikitlearn.svg" width="48" height="48" alt="SKL"/><br><b>Scikit-learn</b></td>
-      <td align="center" width="96"><img src="assets/icons/opencv.svg" width="48" height="48" alt="OpenCV"/><br><b>OpenCV</b></td>
-      <td align="center" width="96"><img src="assets/icons/pandas.svg" width="48" height="48" alt="Pandas"/><br><b>Pandas</b></td>
-      <td align="center" width="96"><img src="assets/icons/numpy.svg" width="48" height="48" alt="NumPy"/><br><b>NumPy</b></td>
-    </tr>
-  </table>
-</div>
-
-### 🛠️ Tools, Editors & Environment
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96"><img src="assets/icons/git.svg" width="48" height="48" alt="Git"/><br><b>Git</b></td>
-      <td align="center" width="96"><img src="assets/icons/github.svg" width="48" height="48" alt="GitHub"/><br><b>GitHub</b></td>
-      <td align="center" width="96"><img src="assets/icons/vscode.svg" width="48" height="48" alt="VSCode"/><br><b>VS Code</b></td>
-      <td align="center" width="96"><img src="assets/icons/linux.svg" width="48" height="48" alt="Linux"/><br><b>Linux</b></td>
-      <td align="center" width="96"><img src="assets/icons/vim.svg" width="48" height="48" alt="Vim"/><br><b>Vim</b></td>
-      <td align="center" width="96"><img src="assets/icons/figma.svg" width="48" height="48" alt="Figma"/><br><b>Figma</b></td>
-      <td align="center" width="96"><img src="assets/icons/postman.svg" width="48" height="48" alt="Postman"/><br><b>Postman</b></td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          GITHUB STATISTICS                   -->
-<!-- ============================================ -->
-<div align="center">
-
-# 📊 GitHub Statistics
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-Live analytics — real-time stats from my GitHub activity.
+<a href="https://github.com/VoidX3D"><img height="165" src="https://github-readme-stats.vercel.app/api?username=VoidX3D&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="VoidX3D's GitHub statistics" /></a>
+<a href="https://github.com/VoidX3D"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidX3D&layout=compact&hide_border=true&theme=transparent" alt="VoidX3D's top languages" /></a>
 
 </div>
 
 <div align="center">
 
-<!-- ROW 1: Stats + Streak -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=voidx3d&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=voidx3d&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-<!-- ROW 2: Languages + WakaTime -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidx3d&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=12&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=voidx3d&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="WakaTime" />
-
-<!-- PROFILE SUMMARY -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voidx3d&theme=tokyonight" alt="Profile Details"/>
-
-<!-- DETAILED STAT CARDS -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voidx3d&theme=tokyonight" alt="Repos Per Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voidx3d&theme=tokyonight" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=voidx3d&theme=tokyonight&utcOffset=5.75" alt="Productive Time"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VoidX3D&theme=github-compact&hide_border=true&area=true" alt="VoidX3D's contribution activity" width="96%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          ACHIEVEMENTS & TROPHIES              -->
-<!-- ============================================ -->
-<div align="center">
-
-# 🏆 Achievements & Trophies
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-</div>
+## Contribution snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=voidx3d&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=8" alt="Trophies"/>
-</div>
-
-<br>
-
-<div align="center">
-
-| 🎯 Milestone | 📊 Status | 🎁 Target | 🏅 Achievement |
-|:------------|:----------|:----------|:--------------|
-| **Total Commits** | ![](https://img.shields.io/badge/1000+-success?style=flat-square) | 2000+ by 2026 | 🌟 Code Warrior |
-| **Public Repos** | ![](https://img.shields.io/badge/40+-blue?style=flat-square) | 100+ Quality | 🎁 Project Master |
-| **GitHub Stars** | ![](https://img.shields.io/badge/Growing-orange?style=flat-square) | 1000+ Stars | ⭐ Community Loved |
-| **Contributions** | ![](https://img.shields.io/badge/Active-brightgreen?style=flat-square) | Daily Commits | ❄️ Consistent Builder |
-| **Languages** | ![](https://img.shields.io/badge/14+-purple?style=flat-square) | Master 18+ | 🎅 Polyglot Dev |
-| **Followers** | ![](https://img.shields.io/badge/Growing-cyan?style=flat-square) | 500+ Network | 🤝 Community Leader |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          ALL PROJECTS                        -->
-<!-- ============================================ -->
-<div align="center">
-
-# 🚀 Complete Project Portfolio
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-Every repository built by **Sincere Bhattarai (VoidX3D)** — from AI-powered APIs to interactive games, mobile apps to developer tools.
-
-</div>
-
-### 🔥 Featured / Production Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Anime-Tracker**](https://github.com/VoidX3D/Anime-Tracker) | Feature-rich anime tracking platform with neural recommendations, real-time AniList/MAL sync, PWA support, glassmorphism UI. | Next.js, Supabase, TypeScript |
-| [**RU_Club_Website**](https://github.com/VoidX3D/RU_Club_Website) | Official website for Motherland RU Club — environmental sustainability club in Pokhara, Nepal. | React, TypeScript, Supabase, Tailwind |
-| [**RU_Admin_Site**](https://github.com/VoidX3D/RU_Admin_Site) | Full-featured admin panel managing missions, announcements, members, stats, and contact submissions. | React 19, TypeScript, Supabase |
-| [**voidx3d.github.io**](https://github.com/VoidX3D/voidx3d.github.io) | Personal project hub and developer portfolio showcasing open-source work. | Vite, React, TypeScript |
-| [**Anilist-DB**](https://github.com/VoidX3D/Anilist-DB) | AniList database harvester with real-time socket streaming, protocol modes, and disk sentinel. | Node.js, Socket.io, TypeScript |
-| [**voidx3d-api**](https://github.com/VoidX3D/voidx3d-api) | Proprietary API engine with Express, GraphQL, Redis caching, rate limiting, and helmet security. | Node.js, Express, GraphQL, Redis |
-
-</div>
-
-<br>
-
-<!-- PROJECT CARDS -->
-<div align="center">
-  <a href="https://github.com/VoidX3D/Anime-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Anime-Tracker&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anime-Tracker"/></a>
-  <a href="https://github.com/VoidX3D/RU_Club_Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Club_Website&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU_Club_Website"/></a>
-  <a href="https://github.com/VoidX3D/RU_Admin_Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=RU_Admin_Site&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="RU_Admin_Site"/></a>
-  <a href="https://github.com/VoidX3D/voidx3d.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=voidx3d.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="voidx3d.github.io"/></a>
-  <a href="https://github.com/VoidX3D/Anilist-DB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=Anilist-DB&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Anilist-DB"/></a>
-  <a href="https://github.com/VoidX3D/voidx3d-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VoidX3D&repo=voidx3d-api&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="voidx3d-api"/></a>
-</div>
-
-<br>
-
-<details>
-<summary><b>🌐 Web Applications (8)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**Backup**](https://github.com/VoidX3D/Backup) | Space Hub — interactive learning platform with 3D visualizations, math tools, and project gallery. | HTML, CSS, JavaScript, GSAP |
-| [**ANIWAVE1**](https://github.com/VoidX3D/ANIWAVE1) | Anime streaming platform with search, filtering, and PWA support. | PHP, MySQL, JavaScript |
-| [**nextjs-project-starter**](https://github.com/VoidX3D/nextjs-project-starter) | Zen Exhibition — Next.js starter template with Framer Motion, MDX, Tailwind CSS, and member showcase. | Next.js, MDX, Tailwind |
-| [**final**](https://github.com/VoidX3D/final) | Anime Roulette — smart weighted randomizer for discovering anime from 13,000+ titles. (Private) | Next.js, shadcn/ui, TypeScript |
-| [**void-archive**](https://github.com/VoidX3D/void-archive) | VoidArchive — digital archive and portfolio with academic and creative work showcase. | Next.js, Supabase, Framer Motion |
-| [**starpack**](https://github.com/VoidX3D/starpack) | Football Card Collection Manager — track 100+ cards, 4 packs, auto-generated sheets. | HTML, CSS, JavaScript |
-| [**miruro**](https://github.com/VoidX3D/miruro) | Miruro no Kuon — anime streaming website with minimal UI and HD streaming. (Fork) | React, Vite |
-| [**api.consumet.org**](https://github.com/VoidX3D/api.consumet.org) | Consumet API deployment — Fastify-based media information proxy. | Fastify, TypeScript |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📦 APIs, Libraries & Backend (6)</summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**hianime-api**](https://github.com/VoidX3D/hianime-api) | Unofficial REST API wrapper for HiAnime.to — scrape anime data, episodes, streaming links. | TypeScript, Hono, Redis |
-| [**voidx3d-api**](https://github.com/VoidX3D/voidx3d-api) | Proprietary data engine — GraphQL + REST API with rate limiting, Redis caching, helmet security. | Express, GraphQL, Redis |
-| [**consumet.ts**](https://github.com/VoidX3D/consumet.ts) | High-level media info library for books, movies, anime, manga, and more. (Fork) | TypeScript |
-| [**clcalc**](https://github.com/VoidX3D/clcalc) | Feature-rich command line calculator with history and expression parsing. | JavaScript, Gulp |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📱 Mobile & Android (2)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**DexDiary**](https://github.com/VoidX3D/DexDiary) | Privacy-first Android diary/journal app with Material 3 design, mood tracking, and local encryption. | Kotlin, Jetpack Compose |
-| [**PixelPlayer**](https://github.com/VoidX3D/PixelPlayer) | Privacy-first Android music player with Material 3 Expressive, offline playback, equalizer, and casting. (Fork) | Kotlin |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🎄 Holiday & Fun Projects (4)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**christmas**](https://github.com/VoidX3D/christmas) | Three.js interactive 3D Christmas experience with particle effects and animations. (Private) | Three.js, Vite |
-| [**Happy-Bday-maya**](https://github.com/VoidX3D/Happy-Bday-maya) | Personalized birthday card with animations. (Private) | HTML, CSS, JS |
-| [**MyChristmasCard**](https://github.com/VoidX3D/MyChristmasCard) | Holiday greeting card with festive design. (Private) | HTML, CSS |
-| [**Sahanshils-Card-2**](https://github.com/VoidX3D/Sahanshils-Card-2) | Custom greeting card project. (Private) | HTML, CSS |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🎓 School, Science & Experiments (6)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**sciencepresentation**](https://github.com/VoidX3D/sciencepresentation) | Science presentation web app with interactive content. (Private) | HTML, CSS, JS |
-| [**science-study**](https://github.com/VoidX3D/science-study) | Science study aid with flashcards and quizzes. (Private) | HTML, CSS, JS |
-| [**Demo-Repo**](https://github.com/VoidX3D/Demo-Repo) | Interactive clone site hub for demo and testing. (Private) | HTML, CSS, JS |
-| [**DexDiary-legacy**](https://github.com/VoidX3D/DexDiary-legacy) | Legacy version of DexDiary diary app. (Private) | Kotlin |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🛠️ Starters, Templates & Configs (8)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**nextjs-project-starter**](https://github.com/VoidX3D/nextjs-project-starter) | Next.js + Tailwind + MDX starter with Framer Motion and member system. | Next.js, Tailwind, MDX |
-| [**vite-react-template**](https://github.com/VoidX3D/vite-react-template) | Vite + React starter template. (Private) | Vite, React |
-| [**myanime**](https://github.com/VoidX3D/myanime) | Anime streaming monorepo with Turborepo. (Private) | Turborepo, React, Node |
-| [**Backup**](https://github.com/VoidX3D/Backup) | Utility scripts, config exports, and automation backups. | HTML, Shell |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🔀 Forks & Contributions (10+)</b></summary>
-<br>
-
-<div align="center">
-
-| Project | Upstream | Description |
-|:--------|:---------|:------------|
-| [**ECC**](https://github.com/VoidX3D/ECC) | Agent harness optimization | Skills, instincts, memory system |
-| [**rweb.site**](https://github.com/VoidX3D/rweb.site) | rweb.site | Free subdomain service |
-| [**SAT0RU**](https://github.com/VoidX3D/SAT0RU) | SAT0RU | Real-time cursed technique visualizer |
-| [**spotube**](https://github.com/VoidX3D/spotube) | spotube | Open source music streaming |
-| [**Aurora-OS.js**](https://github.com/VoidX3D/Aurora-OS.js) | Aurora-OS.js | Web OS game framework |
-| [**MoneyPrinterTurbo**](https://github.com/VoidX3D/MoneyPrinterTurbo) | MoneyPrinterTurbo | AI short video generator |
-| [**system_prompts_leaks**](https://github.com/VoidX3D/system_prompts_leaks) | Prompts leaks | Chatbot system prompt collection |
-| [**docs.consumet.org**](https://github.com/VoidX3D/docs.consumet.org) | consumet.org | Consumet API documentation |
-| [**pretext**](https://github.com/VoidX3D/pretext) | pretext | (Link to upstream) |
-| [**dufs**](https://github.com/VoidX3D/dufs) | dufs | Static file server with WebDAV |
-
-</div>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          CONTRIBUTION ACTIVITY               -->
-<!-- ============================================ -->
-<div align="center">
-
-# 🐍 Contribution Activity
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-</div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidx3d/voidx3d/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/voidx3d/voidx3d/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/voidx3d/voidx3d/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VoidX3D/VoidX3D/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VoidX3D/VoidX3D/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/VoidX3D/VoidX3D/output/github-contribution-grid-snake.svg" width="96%" />
 </picture>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidx3d&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=VoidX3D's%20Contribution%20Graph%202026&radius=10&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## Let's connect
 
----
+I'm interested in open-source collaboration, constructive feedback, technical discussion, and building useful software with other developers.
 
-<!-- ============================================ -->
-<!--          DEVELOPER PHILOSOPHY                 -->
-<!-- ============================================ -->
-<div align="center">
-
-# 💭 Developer Philosophy
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-</div>
-
-```python
-#!/usr/bin/env python3
-"""
-VoidX3D's Development Philosophy
-================================
-A comprehensive guide to my approach in software development
-"""
-
-from typing import Dict, List
-from dataclasses import dataclass
-from enum import Enum
-
-
-class Priority(Enum):
-    CRITICAL = 1
-    HIGH = 2
-    MEDIUM = 3
-    LOW = 4
-
-
-@dataclass
-class Principle:
-    name: str
-    description: str
-    priority: Priority
-    examples: List[str]
-
-
-class DeveloperPhilosophy:
-    """Core principles that guide my development journey"""
-
-    def __init__(self):
-        self.principles = self._define_principles()
-        self.daily_habits = self._define_habits()
-
-    def _define_principles(self) -> List[Principle]:
-        return [
-            Principle("Clean Code Over Clever Code",
-                      "Write code others can understand and maintain",
-                      Priority.CRITICAL,
-                      ["Descriptive variable names", "Comprehensive comments",
-                       "Consistent style guides", "Small focused functions"]),
-            Principle("Build to Learn, Not Just to Complete",
-                      "Every project is a learning opportunity",
-                      Priority.HIGH,
-                      ["Experiment with new tech", "Document learnings",
-                       "Share with community", "Reflect on improvements"]),
-            Principle("Ship Early, Iterate Often",
-                      "Done is better than perfect, but iterate toward excellence",
-                      Priority.HIGH,
-                      ["MVP first, features later", "Get feedback early",
-                       "Continuous deployment", "Regular refactoring"]),
-            Principle("Community Over Competition",
-                      "Help others grow, and grow together",
-                      Priority.HIGH,
-                      ["Open source contributions", "Answer questions",
-                       "Mentor juniors", "Share knowledge"]),
-            Principle("Performance Matters, But Not Always First",
-                      "Optimize where it counts, prioritize by impact",
-                      Priority.MEDIUM,
-                      ["Profile before optimizing", "Focus on bottlenecks",
-                       "Consider UX", "Balance speed with maintainability"]),
-        ]
-
-    def _define_habits(self) -> Dict[str, List[str]]:
-        return {
-            "Morning": ["☕ Coffee + code review", "📧 GitHub notifications",
-                        "📝 Plan today's tasks", "🎯 Set clear goals"],
-            "Development": ["💻 Write clean code", "🧪 Test as you go",
-                            "🔄 Commit frequently", "🤔 Ask when stuck"],
-            "Learning": ["📚 Read technical articles", "🏗️ Build experimental projects",
-                         "💡 Try new frameworks", "🎥 Watch tutorials"],
-            "Evening": ["📊 Review progress", "📝 Document learnings",
-                        "🎮 Relax with anime/games", "🔄 Plan tomorrow"],
-        }
-
-    def get_motivation(self) -> str:
-        return """
-        🗡️ Just like Ichigo's journey in Bleach:
-
-        • Start as a beginner, grow through challenges
-        • Each bug is a Hollow to defeat
-        • Every project is a new Bankai to master
-        • Protect what matters: clean code, users, community
-        • Never give up, even when it seems impossible
-
-        "I'm not Superman, so I can't say anything big like
-        'I'll protect everyone on Earth!' I'm just a Soul Reaper
-        who happens to be passing through. But if you get in my way...
-        you're not going to live through this."
-
-        Replace 'Soul Reaper' with 'Developer' — that's my coding motto! ⚔️
-        """
-
-
-philosophy = DeveloperPhilosophy()
-print(philosophy.get_motivation())
-
-# REMEMBER ALWAYS:
-# ╔══════════════════════════════════════════════╗
-# ║ "Code is read more often than it is written."║
-# ║ "Make it work, make it right, make it fast." ║
-# ║ "The best code is no code at all."           ║
-# ║ "Programming is thinking, not typing."       ║
-# ║ "Build things that matter.                   ║
-# ║  Ship things that work.                      ║
-# ║  Help people who need it.                    ║
-# ║  Never stop learning."                       ║
-# ╚══════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          RANDOM DEV QUOTE                    -->
-<!-- ============================================ -->
-<div align="center">
-
-# 💬 Random Dev Quote
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
-<details>
-<summary><b>📜 Click for some of my favorite quotes</b></summary>
-<br>
+- **Portfolio:** [voidx3d.vercel.app](https://voidx3d.vercel.app)
+- **GitHub:** [@VoidX3D](https://github.com/VoidX3D)
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "First, solve the problem. Then, write the code."               ║
-║                                        - John Johnson            ║
-║                                                                  ║
-║  "The best error message is the one that never shows up."        ║
-║                                        - Thomas Fuchs            ║
-║                                                                  ║
-║  "Code is like humor. When you have to explain it, it's bad."    ║
-║                                        - Cory House              ║
-║                                                                  ║
-║  "Make it work, make it right, make it fast."                    ║
-║                                        - Kent Beck               ║
-║                                                                  ║
-║  "Any fool can write code that a computer can understand.        ║
-║   Good programmers write code that humans can understand."       ║
-║                                        - Martin Fowler           ║
-║                                                                  ║
-║  "Code with passion, debug with patience, deploy with pride!"    ║
-║                                        - VoidX3D                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+*Build. Experiment. Learn. Improve.*
 
-</div>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          FUN FACTS                           -->
-<!-- ============================================ -->
-<div align="center">
-
-# ⚡ Fun Facts & Random Stuff
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎌 Anime & Inspiration
-
-- **Favorite Anime:** Bleach ⚔️
-- **Favorite Character:** Ichigo Kurosaki
-- **Why Bleach?** Constant growth, never giving up, epic battles mirror the dev journey
-- **Coding Playlist:** Bleach OSTs + Lo-fi beats 🎧
-
-### ☕ Coding Fuel
-
-- **Drink of Choice:** Coffee (lots of it!)
-- **Favorite Snack:** Instant noodles at 2 AM
-- **Energy Source:** Determination + curiosity
-- **Debugging Companion:** Rubber duck (seriously works!)
-
-### 🎮 Gaming & Hobbies
-
-- **Favorite Games:** Story-driven RPGs
-- **Game Dev Interest:** Building my own engine
-- **Creative Outlets:** Drawing pixel art, making music
-- **Relaxation:** Long walks, mountain views (Nepal perks!)
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🏔️ Life in Nepal
-
-- **Location:** Beautiful Pokhara city
-- **Views:** Himalayas from my window 🏔️
-- **Community:** Growing tech scene
-- **Time Zone:** UTC+5:45 (yes, that's a real timezone!)
-- **Internet:** Sometimes struggles, but we make it work
-
-### 📚 Learning Style
-
-- **Method:** 70% building, 20% reading, 10% tutorials
-- **Best Time:** Late night coding sessions (night owl 🦉)
-- **Learning From:** Errors, Stack Overflow, docs
-- **Knowledge Sharing:** GitHub, Twitter threads, blogs
-
-### 🎯 Random Dev Facts
-
-- **First Language:** HTML/CSS (age 12)
-- **First Real Project:** A calculator (we all start somewhere!)
-- **Biggest Bug Hunt:** 6 hours — missing semicolon
-- **Code Editor:** VS Code (50+ extensions)
-- **Theme:** Tokyo Night — dark mode only! 💀
-- **Commits:** Usually at odd hours (night owl confirmed 🦉)
-
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-### 🎨 Development Environment
-
-```bash
-╔══════════════════════════════════════════╗
-║  💻 Hardware                              ║
-║  • Laptop: Mid-range but gets job done    ║
-║  • Keyboard: Mechanical (clicky clicks!)  ║
-║  • Monitor: 1080p (dreaming of 4K)       ║
-║                                           ║
-║  🛠️ Software Stack                        ║
-║  • OS: Windows 11 / Ubuntu dual boot      ║
-║  • Terminal: Oh My Zsh + powerlevel10k    ║
-║  • Editor: VS Code (Tokyo Night theme)    ║
-║  • Browser: Chrome DevTools expert        ║
-║  • Git: CLI only (I'm not a monster)      ║
-║                                           ║
-║  🎧 Coding Atmosphere                     ║
-║  • Music: Lo-fi hip hop + Anime OSTs      ║
-║  • Lighting: RGB everything 🌈            ║
-║  • Drinks: Coffee machine always on       ║
-║  • Time: 10 PM - 3 AM (peak hours) 🦉     ║
-║  • Vibe: Dark mode, dim lights, focused   ║
-╚══════════════════════════════════════════╝
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          CONNECT                             -->
-<!-- ============================================ -->
-<div align="center">
-
-# 🌐 Connect With Me
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-I'm always open to collaboration, tech discussions, and new opportunities. Let's build something amazing together!
-
-<br><br>
-
-<a href="https://github.com/VoidX3D">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://x.com/VortexVoidX3D?s=09">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.instagram.com/sincerebhattarai/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:playzspreston2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://voidx3d.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.buymeacoffee.com/voidx3d">
-  <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
-<br><br>
-
-### 💬 Open For
-
-🎁 Collaboration • 🎄 Open Source • ⛄ Freelance • 🎅 Mentorship • ❄️ Tech Discussions • 🎊 Project Ideas • 💡 Code Reviews
-
-### 📍 Response Time
-
-| Platform | Response Time |
-|:---------|:-------------|
-| 📧 Email | Within 24-48 hours |
-| 🐦 X (Twitter) | Usually within hours |
-| 💬 GitHub Issues | Best for technical questions |
-| 📱 Instagram | Casual conversations |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          SUPPORT                             -->
-<!-- ============================================ -->
-<div align="center">
-
-# 🤝 Support My Work
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-
-If you like my projects and want to support my journey, here are some ways:
-
-<br>
-
-<a href="https://www.buymeacoffee.com/voidx3d">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-<a href="https://ko-fi.com/voidx3d">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-</a>
-<a href="https://github.com/sponsors/VoidX3D">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/>
-</a>
-
-<br><br>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h4>⭐ Star Repositories</h4>
-      <p>Give a star to repos you find useful</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>🔔 Follow Me</h4>
-      <p>Stay updated with my projects</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>🤝 Collaborate</h4>
-      <p>Work together on projects</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>🐛 Report Bugs</h4>
-      <p>Help improve code quality</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <h4>💡 Share Ideas</h4>
-      <p>Suggest new features</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>📢 Spread Word</h4>
-      <p>Share with your network</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>📝 Write Blogs</h4>
-      <p>Write about my projects</p>
-    </td>
-    <td align="center" width="25%">
-      <h4>🎁 Donate</h4>
-      <p>Support via coffee/sponsor</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
-
-<!-- ============================================ -->
-<!--          EPIC ANIMATED FOOTER                -->
-<!-- ============================================ -->
-<div align="center">
-
-<svg width="100%" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.25" />
-      <stop offset="50%" style="stop-color:#8A2BE2;stop-opacity:0.25" />
-      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:0.25" />
-    </linearGradient>
-    <linearGradient id="footerGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:0.15" />
-      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:0.15" />
-      <stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:0.15" />
-    </linearGradient>
-  </defs>
-
-  <!-- Animated wave deep -->
-  <path fill="url(#footerGrad)">
-    <animate attributeName="d" dur="12s" repeatCount="indefinite"
-      values="M0,120 Q250,70 500,120 T1000,120 L1000,220 L0,220 Z;
-              M0,120 Q250,170 500,120 T1000,120 L1000,220 L0,220 Z;
-              M0,120 Q250,70 500,120 T1000,120 L1000,220 L0,220 Z"/>
-  </path>
-
-  <!-- Animated wave shallow -->
-  <path fill="url(#footerGrad2)">
-    <animate attributeName="d" dur="9s" repeatCount="indefinite"
-      values="M0,150 Q200,120 400,150 T800,150 T1000,140 L1000,220 L0,220 Z;
-              M0,150 Q200,170 400,150 T800,150 T1000,160 L1000,220 L0,220 Z;
-              M0,150 Q200,120 400,150 T800,150 T1000,140 L1000,220 L0,220 Z"/>
-  </path>
-
-  <!-- Footer text -->
-  <text x="500" y="80" text-anchor="middle" fill="white" font-size="26" font-weight="bold" font-family="'Segoe UI', Arial">
-    Thanks for visiting! 🌟
-    <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
-  </text>
-
-  <text x="500" y="115" text-anchor="middle" fill="#00D9FF" font-size="14" font-family="monospace">
-    ⚡ Powered by passion, coffee, and determination
-  </text>
-
-  <text x="500" y="140" text-anchor="middle" fill="#8b949e" font-size="13" font-family="monospace">
-    Made with ❤️ by VoidX3D  |  © 2024-2026  |  Pokhara, Nepal 🇳🇵
-  </text>
-
-  <text x="500" y="168" text-anchor="middle" fill="#484f58" font-size="12" font-family="monospace" letter-spacing="2">
-    BUILDING  •  LEARNING  •  SHIPPING  •  NEVER  STOPPING  🚀
-  </text>
-
-  <!-- Small decorative dots -->
-  <circle cx="480" y="190" r="2" fill="#00D9FF" opacity="0.4">
-    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="500" cy="190" r="2" fill="#8A2BE2" opacity="0.4">
-    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="520" cy="190" r="2" fill="#FF6B6B" opacity="0.4">
-    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="3s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer&text=Keep%20Coding!%20%E2%9A%94%EF%B8%8F&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=60"/>
-
-<br>
-
-<sub>
-  ⚡ Built with Markdown + SVG Animations + Local Icons (60) + Pure Passion 💖<br>
-  🎮 Currently coding at 2 AM with coffee, lo-fi beats, and zero bugs (we can dream) 🎧
-</sub>
-
----
+**VoidX3D · Sincere Bhattarai · Nepal**
 
 </div>
