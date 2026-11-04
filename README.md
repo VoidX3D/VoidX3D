@@ -1,204 +1,146 @@
 <!--
-  SEO Metadata for VoidX3D / Sincere Bhattarai
-  - Full Stack Developer & Backend Engineer from Pokhara, Nepal
-  - Building production-ready systems, AI-powered APIs, and open-source tools
-  - Languages: TypeScript, JavaScript, Python, Kotlin, Java, Go, Rust, C++, C#
-  - Frameworks: React, Next.js, Node.js, Express, Spring, Flutter
-  - Focus: Backend Architecture, System Design, AI/ML Integration, Real-time Apps
+  VoidX3D | Sincere Bhattarai
+  Student software developer from Pokhara, Nepal.
+  Focus: JavaScript, TypeScript, React, Node.js, Kotlin, Python, Linux,
+  full-stack web development, Android apps, APIs, automation, and AI tools.
 -->
+
 <div align="center">
 
-<!-- BANNER -->
-<img src="./assets/banner.png" alt="VoidX3D Banner — Sincere Bhattarai Full Stack Developer" width="100%">
+<img src="./assets/banner.png" alt="VoidX3D — Sincere Bhattarai, student software developer from Pokhara, Nepal" width="100%">
 
-<br>
+# VoidX3D
 
-<!-- ============================================ -->
-<!--           EPIC ANIMATED SVG HEADER            -->
-<!-- ============================================ -->
-<svg width="100%" height="380" viewBox="0 0 1000 380" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="30%" style="stop-color:#0a1628;stop-opacity:1" />
-      <stop offset="70%" style="stop-color:#0d1117;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0a1929;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0" />
-    </linearGradient>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D9FF" />
-      <stop offset="30%" style="stop-color:#00E5FF" />
-      <stop offset="50%" style="stop-color:#8A2BE2" />
-      <stop offset="70%" style="stop-color:#FF6B6B" />
-      <stop offset="100%" style="stop-color:#FFD93D" />
-    </linearGradient>
-    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.12" />
-      <stop offset="50%" style="stop-color:#8A2BE2;stop-opacity:0.12" />
-      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:0.12" />
-    </linearGradient>
-    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:0.08" />
-      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:0.08" />
-      <stop offset="100%" style="stop-color:#8A2BE2;stop-opacity:0.08" />
-    </linearGradient>
-    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FFD93D;stop-opacity:0.06" />
-      <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:0.06" />
-      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:0.06" />
-    </linearGradient>
-    <radialGradient id="glowCircle" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.08" />
-      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0" />
-    </radialGradient>
-    <filter id="titleGlow">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="softGlow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00D9FF" stroke-width="0.3" opacity="0.05"/>
-    </pattern>
-  </defs>
+**Sincere Bhattarai · Student Developer · Pokhara, Nepal 🇳🇵**
 
-  <!-- Background with grid -->
-  <rect width="1000" height="380" fill="url(#bgGrad)" rx="15"/>
-  <rect width="1000" height="380" fill="url(#grid)" rx="15"/>
+I build web applications, developer tools, Android projects, APIs, and experiments with automation and AI.
 
-  <!-- Ambient glow circle behind title -->
-  <circle cx="500" cy="140" r="200" fill="url(#glowCircle)">
-    <animate attributeName="r" values="180;220;180" dur="4s" repeatCount="indefinite"/>
-  </circle>
+[Portfolio](https://voidx3d.netlify.app) · [GitHub Repositories](https://github.com/VoidX3D?tab=repositories) · [X](https://x.com/VortexVoidX3D) · [Instagram](https://www.instagram.com/sincerebhattarai/)
 
-  <!-- Animated wave 1 (deep) -->
-  <path fill="url(#wave1)">
-    <animate attributeName="d" dur="14s" repeatCount="indefinite"
-      values="M0,300 Q125,260 250,280 T500,260 T750,280 T1000,260 L1000,380 L0,380 Z;
-              M0,300 Q125,280 250,260 T500,280 T750,260 T1000,280 L1000,380 L0,380 Z;
-              M0,300 Q125,260 250,280 T500,260 T750,280 T1000,260 L1000,380 L0,380 Z"/>
-  </path>
+![Profile views](https://komarev.com/ghpvc/?username=VoidX3D&style=flat&color=555555)
+![GitHub followers](https://img.shields.io/github/followers/VoidX3D?style=flat&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/VoidX3D?style=flat&label=Stars)
 
-  <!-- Animated wave 2 (mid) -->
-  <path fill="url(#wave2)">
-    <animate attributeName="d" dur="11s" repeatCount="indefinite"
-      values="M0,320 Q150,290 300,310 T600,290 T900,310 L1000,300 L1000,380 L0,380 Z;
-              M0,320 Q150,310 300,290 T600,310 T900,290 L1000,300 L1000,380 L0,380 Z;
-              M0,320 Q150,290 300,310 T600,290 T900,310 L1000,300 L1000,380 L0,380 Z"/>
-  </path>
+</div>
 
-  <!-- Animated wave 3 (shallow) -->
-  <path fill="url(#wave3)">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0,340 Q100,320 200,335 T400,320 T600,335 T800,320 T1000,335 L1000,380 L0,380 Z;
-              M0,340 Q100,335 200,320 T400,335 T600,320 T800,335 T1000,320 L1000,380 L0,380 Z;
-              M0,340 Q100,320 200,335 T400,320 T600,335 T800,320 T1000,335 L1000,380 L0,380 Z"/>
-  </path>
+---
 
-  <!-- Floating particles layer 1 -->
-  <circle cx="80" cy="60" r="2.5" fill="#00D9FF" opacity="0.7">
-    <animate attributeName="cy" from="-10" to="380" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="200" cy="100" r="1.5" fill="#8A2BE2" opacity="0.6">
-    <animate attributeName="cy" from="-10" to="380" dur="10s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="350" cy="40" r="2" fill="#FF6B6B" opacity="0.5">
-    <animate attributeName="cy" from="-10" to="380" dur="9s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="500" cy="130" r="3" fill="#FFD93D" opacity="0.4">
-    <animate attributeName="cy" from="-10" to="380" dur="12s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0.1;0.4" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="650" cy="70" r="1.8" fill="#00D9FF" opacity="0.6">
-    <animate attributeName="cy" from="-10" to="380" dur="8.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="780" cy="110" r="2.2" fill="#8A2BE2" opacity="0.5">
-    <animate attributeName="cy" from="-10" to="380" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="920" cy="50" r="1.5" fill="#FF6B6B" opacity="0.7">
-    <animate attributeName="cy" from="-10" to="380" dur="11s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
+## About
 
-  <!-- Floating particles layer 2 (smaller, slower) -->
-  <circle cx="130" cy="90" r="1" fill="#00D9FF" opacity="0.3">
-    <animate attributeName="cy" from="-10" to="380" dur="15s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="430" cy="30" r="1.2" fill="#FFD93D" opacity="0.3">
-    <animate attributeName="cy" from="-10" to="380" dur="18s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="150" r="1" fill="#8A2BE2" opacity="0.3">
-    <animate attributeName="cy" from="-10" to="380" dur="13s" repeatCount="indefinite"/>
-  </circle>
+I'm **Sincere Bhattarai**, known online as **VoidX3D** — a student and self-directed developer based in **Pokhara, Gandaki, Nepal**. I enjoy taking ideas from a rough concept to a working application, learning by building, and improving projects through real use.
 
-  <!-- Rotating hexagon 1 -->
-  <g transform="translate(150, 210)" opacity="0.12">
-    <animateTransform attributeName="transform" type="rotate" from="0 150 210" to="360 150 210" dur="30s" repeatCount="indefinite"/>
-    <polygon points="0,-25 21.7,-12.5 21.7,12.5 0,25 -21.7,12.5 -21.7,-12.5" fill="none" stroke="#00D9FF" stroke-width="1.5"/>
-  </g>
+My interests include **full-stack web development, JavaScript and TypeScript, backend APIs, Android development, Linux, open-source software, automation, and AI-powered tools**. I care about practical software, maintainable code, privacy-conscious design, and interfaces that feel intentional rather than overloaded.
 
-  <!-- Rotating hexagon 2 -->
-  <g transform="translate(850, 200)" opacity="0.10">
-    <animateTransform attributeName="transform" type="rotate" from="360 850 200" to="0 850 200" dur="35s" repeatCount="indefinite"/>
-    <polygon points="0,-18 15.6,-9 15.6,9 0,18 -15.6,9 -15.6,-9" fill="none" stroke="#8A2BE2" stroke-width="1.5"/>
-  </g>
+- **Birthday:** November 6 · Kartik 20
+- **Based in:** Pokhara, Nepal (NPT, UTC+05:45)
+- **GitHub:** [@VoidX3D](https://github.com/VoidX3D)
+- **Main focus:** Building, experimenting, contributing, and learning
 
-  <!-- Orbiting ring -->
-  <ellipse cx="500" cy="290" rx="350" ry="20" fill="none" stroke="#00D9FF" stroke-width="0.5" opacity="0.08">
-    <animate attributeName="ry" values="20;25;20" dur="6s" repeatCount="indefinite"/>
-  </ellipse>
+## What I Build
 
-  <!-- Orbiting satellite -->
-  <circle r="3" fill="#8A2BE2" opacity="0.6" filter="url(#softGlow)">
-    <animateMotion dur="12s" repeatCount="indefinite"
-      path="M150,290 Q500,270 850,290 Q500,310 150,290"/>
-  </circle>
+- **Web apps:** Responsive applications, dashboards, PWAs, and interactive experiences.
+- **Backend systems:** APIs, authentication, databases, real-time features, and application architecture.
+- **Android apps:** Kotlin, Jetpack Compose, and Material Design.
+- **Automation and AI:** Developer workflows, AI-agent concepts, and tools that reduce repetitive work.
+- **Linux and open source:** Working in Linux-based development environments and exploring community-built software.
 
-  <!-- Code rain effect (right side) -->
-  <g opacity="0.06" font-family="monospace" font-size="10" fill="#00D9FF">
-    <text x="860" y="100">&lt;/&gt;</text>
-    <text x="890" y="140">const</text>
-    <text x="870" y="180">=&gt;</text>
-    <text x="900" y="220">{ }</text>
-    <text x="880" y="260">fn</text>
-    <text x="850" y="300">async</text>
-  </g>
+## Featured Projects
 
-  <!-- Code rain effect (left side) -->
-  <g opacity="0.06" font-family="monospace" font-size="10" fill="#8A2BE2">
-    <text x="80" y="120">import</text>
-    <text x="60" y="160">class</text>
-    <text x="90" y="200">new</text>
-    <text x="70" y="240">this</text>
-    <text x="100" y="280">=&gt;</text>
-    <text x="80" y="320">yield</text>
-  </g>
+### [FamilyGame](https://github.com/VoidX3D/FamilyGame)
+A browser-based multiplayer game project built around private rooms and games that people can play together. The project has included a working backend and a hosted frontend.
 
-  <!-- Glowing line under title -->
-  <rect x="200" y="225" width="600" height="2" fill="url(#glowGrad)" rx="1" opacity="0.8">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="width" values="600;650;600" dur="5s" repeatCount="indefinite"/>
-  </rect>
+**Topics:** JavaScript, multiplayer games, web apps, real-time interaction, backend development.
 
-  <!-- Main title -->
-  <text x="500" y="120" text-anchor="middle" fill="url(#titleGrad)" font-size="82" font-weight="900" font-family="'Segoe UI', -apple-system, Arial, sans-serif" filter="url(#titleGlow)" letter-spacing="3">
+### [Pixel Player](https://github.com/theveloperpixel/PixelPlayer)
+I contributed to Pixel Player, an Android music player built with Kotlin and Jetpack Compose. Seeing an open-source project progress toward a Play Store release is one of the journeys that makes contributing to software rewarding.
+
+**Topics:** Android development, Kotlin, Jetpack Compose, Material Design, open source.
+
+### [Anime Tracker](https://github.com/VoidX3D/Anime-Tracker)
+An anime tracking web application built around anime discovery and list management, with AniList/MyAnimeList-related integrations and a modern web interface.
+
+**Topics:** TypeScript, Next.js, Supabase, APIs, anime database, progressive web apps.
+
+### [RU Club Website](https://github.com/VoidX3D/RU_Club_Website)
+A website for the Motherland RU Club, a student environmental initiative in Pokhara, Nepal.
+
+**Topics:** React, TypeScript, Supabase, Tailwind CSS, community projects, environmental awareness.
+
+### [VoidX3D Portfolio](https://voidx3d.netlify.app)
+My personal project hub for experiments, applications, and work under the VoidX3D identity.
+
+### [I'm Sorry](https://github.com/VoidX3D/ImSorry)
+A cinematic, interactive web experience built with React, Vite, and canvas-based visual effects.
+
+**Topics:** React, Vite, JavaScript, animation, interactive web design.
+
+> Project status and technologies can change as repositories evolve. Visit each repository for its current code, documentation, and license.
+
+## Technology I Work With
+
+**Languages**
+- JavaScript and TypeScript
+- Python
+- Kotlin
+- HTML and CSS
+- Bash and shell scripting
+
+**Web and application development**
+- React, Vite, and Next.js
+- Node.js and REST APIs
+- Tailwind CSS
+- Progressive Web Apps (PWAs)
+
+**Data and infrastructure**
+- PostgreSQL and Supabase
+- Git and GitHub
+- Vercel and Cloudflare
+- Linux and terminal-based workflows
+
+**Mobile**
+- Android
+- Kotlin
+- Jetpack Compose
+- Material Design
+
+I explore additional tools when a project calls for them; this list represents my main areas of interest rather than a claim of equal expertise in every technology.
+
+## Currently Exploring
+
+- Building more reliable full-stack applications
+- Backend architecture, APIs, and real-time systems
+- AI agents and practical developer automation
+- Privacy-conscious applications and self-hosting
+- Better Linux development workflows
+- Open-source contribution and project maintenance
+
+## How I Like to Build
+
+- Start with a real problem and a clear scope.
+- Prefer maintainable solutions over unnecessary complexity.
+- Keep interfaces focused, accessible, and responsive.
+- Learn by building, testing, and iterating.
+- Be honest about what's finished, experimental, or still planned.
+
+## Find Me Online
+
+- **GitHub:** [github.com/VoidX3D](https://github.com/VoidX3D)
+- **Portfolio:** [voidx3d.netlify.app](https://voidx3d.netlify.app)
+- **X:** [@VortexVoidX3D](https://x.com/VortexVoidX3D)
+- **Instagram:** [@sincerebhattarai](https://www.instagram.com/sincerebhattarai/)
+
+For collaboration, open-source contributions, technical discussion, or project feedback, GitHub is a good place to reach me.
+
+---
+
+<div align="center">
+
+*Build with curiosity. Keep it useful. Keep improving.*
+
+**VoidX3D · Sincere Bhattarai · Pokhara, Nepal**
+
+</div>
+, -apple-system, Arial, sans-serif" filter="url(#titleGlow)" letter-spacing="3">
     VoidX3D
     <animate attributeName="opacity" values="1;0.85;1" dur="3s" repeatCount="indefinite"/>
   </text>
